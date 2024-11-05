@@ -1,0 +1,989 @@
+Process_ID,Sample_ID,Watershed,Current_ID,Percent_Match,Match_Genus,Match_Species
+DHSSI475-24,SSI-Yuba-44350-H7,Yuba,Clitellata,82.02,Limnodrilus,Limnodrilus hoffmeisteri
+DHSSI432-24,SSI-Yuba-44350-D12,Yuba,Matriella teresa,83.24,Ephemerella,Ephemerella dorothea
+DHSSI419-24,SSI-Yuba-44350-C11,Yuba,Matriella teresa,83.43,Ephemerella,Ephemerella dorothea
+DHSSI431-24,SSI-Yuba-44350-D11,Yuba,Matriella teresa,83.43,Ephemerella,Ephemerella dorothea
+DHSSI427-24,SSI-Yuba-44350-D7,Yuba,Cinygma,84.71,Cinygma,Cinygma sp. RN1
+DHSSI422-24,SSI-Yuba-44350-D2,Yuba,Cinygma,85.32,Cinygma,Cinygma sp. RN1
+DHSSI420-24,SSI-Yuba-44350-C12,Yuba,Torrenticola,86.09,Torrenticola,Torrenticola amplexa
+DHSSI457-24,SSI-Yuba-44350-G1,Yuba,Torrenticola,86.09,Torrenticola,Torrenticola lundbladi
+DHSSI387-24,SSI-Yuba-44350-A3,Yuba,Mideopsis,87.24,Mideopsis,Mideopsis sp0994B
+DHSSI461-24,SSI-Yuba-44350-G5,Yuba,Stempellinella,87.25,Stempellinella,Stempellinella tamaseptima
+DHSSI472-24,SSI-Yuba-44350-H4,Yuba,Stempellinella,87.25,Stempellinella,Stempellinella tamaseptima
+DHSSI400-24,SSI-Yuba-44350-B4,Yuba,Thienemannimyia,87.61,Thienemannimyia,Thienemannimyia tripunctata
+DHSSI385-24,SSI-Yuba-44350-A1,Yuba,Polypedilum aviceps,88.17,Polypedilum,Polypedilum jianfengense
+DHSSI394-24,SSI-Yuba-44350-A10,Yuba,Estelloxus,88.29,Lebertia,Lebertia crenophila
+DHSSI463-24,SSI-Yuba-44350-G7,Yuba,Tanytarsus,88.46,Micropsectra,Micropsectra sp. 3ES
+DHSSI401-24,SSI-Yuba-44350-B5,Yuba,Parorthocladius,88.95,Alotanypus,Alotanypus venustus
+DHSSI390-24,SSI-Yuba-44350-A6,Yuba,Trissopelopia,89.25,Ablabesmyia,Ablabesmyia sp. 20XL
+DHSSI399-24,SSI-Yuba-44350-B3,Yuba,Polypedilum scalaenum,89.25,Polypedilum,Polypedilum sp. 13SC
+DHSSI469-24,SSI-Yuba-44350-H1,Yuba,Cricotopus,89.6,Orthocladius,Orthocladius filamentosus
+DHSSI403-24,SSI-Yuba-44350-B7,Yuba,Ablabesmyia,89.74,Pentaneura,Pentaneura sp. CH16Frias3
+DHSSI462-24,SSI-Yuba-44350-G6,Yuba,Limnophyes,89.76,Limnophyes,Limnophyes margaretae
+DHSSI471-24,SSI-Yuba-44350-H3,Yuba,Lebertia,89.92,Lebertia,Lebertia salebrosa
+DHSSI388-24,SSI-Yuba-44350-A4,Yuba,Thienemannimyia,89.93,Microtendipes,Microtendipes sp. PA3
+DHSSI458-24,SSI-Yuba-44350-G2,Yuba,Lebertia,90.02,Lebertia,Lebertia salebrosa
+DHSSI389-24,SSI-Yuba-44350-A5,Yuba,Brillia,90.06,Brillia,Brillia modesta gr. sp.
+DHSSI392-24,SSI-Yuba-44350-A8,Yuba,Boreoheptagyia,90.07,Sympotthastia,Sympotthastia takatensis
+DHSSI386-24,SSI-Yuba-44350-A2,Yuba,Corynoneura,90.17,Corynoneura,Corynoneura sp. 26ES
+DHSSI395-24,SSI-Yuba-44350-A11,Yuba,Cryptochironomus,90.17,Microchironomus,Microchironomus tener
+DHSSI478-24,SSI-Yuba-44350-H10,Yuba,Ironodes,90.37,Ironodes,Ironodes sp. JMW1
+DHSSI467-24,SSI-Yuba-44350-G11,Yuba,Micropsectra,90.8,Micropsectra,Micropsectra recurvata
+DHSSI393-24,SSI-Yuba-44350-A9,Yuba,Tanytarsus,90.83,Tanytarsus,Tanytarsus bispinosus
+DHSSI454-24,SSI-Yuba-44350-F10,Yuba,Neoplasta,90.83,Clinocera,Clinocera stigma
+DHSSI456-24,SSI-Yuba-44350-F12,Yuba,Stempellinella,90.83,Stempellinella,Stempellinella edwardsi
+DHSSI396-24,SSI-Yuba-44350-A12,Yuba,Demicryptochironomus,91.28,Demicryptochironomus,Demicryptochironomus vulneratus
+DHSSI452-24,SSI-Yuba-44350-F8,Yuba,Antocha,91.28,Chionea,Chionea alexandriana
+DHSSI402-24,SSI-Yuba-44350-B6,Yuba,Macropelopia,93.64,Macropelopia,Macropelopia pergrandis
+DHSSI459-24,SSI-Yuba-44350-G3,Yuba,Microtendipes rydalensis,94.25,Microtendipes,Microtendipes rydalensis grp.
+DHSSI473-24,SSI-Yuba-44350-H5,Yuba,Pagastia,95.09,Pagastia,Pagastia orthogonia
+DHSSI423-24,SSI-Yuba-44350-D3,Yuba,Neoleptophlebia,96.01,Neoleptophlebia,Neoleptophlebia memorialis
+DHSSI426-24,SSI-Yuba-44350-D6,Yuba,Neoleptophlebia,96.17,Neoleptophlebia,Neoleptophlebia memorialis
+DHSSI415-24,SSI-Sentinel-44350-C7,Sentinel,Rhyacophila jewetti,96.24,Rhyacophila,Rhyacophila vaefes
+DHSSI460-24,SSI-Yuba-44350-G4,Yuba,Eukiefferiella devonica,96.31,Eukiefferiella,Eukiefferiella devonica
+DHSSI391-24,SSI-Yuba-44350-A7,Yuba,Phaenopsectra,96.51,Conchapelopia,Conchapelopia sp. CAM07
+DHSSI440-24,SSI-Yuba-44350-E8,Yuba,Sialis,96.79,Sialis,Sialis sp. 7G202241
+DHSSI406-24,SSI-Sentinel-44350-B10,Sentinel,Dolophilodes aequalis,96.95,Dolophilodes,Dolophilodes aequalis
+DHSSI414-24,SSI-Sentinel-44350-C6,Sentinel,Rhyacophila pellisa,98.46,Rhyacophila,Rhyacophila valuma
+DHSSI476-24,SSI-Yuba-44350-H8,Yuba,Epeorus longimanus,98.47,Epeorus,Epeorus longimanus
+DHSSI470-24,SSI-Yuba-44350-H2,Yuba,Potthastia gaedii,98.86,Potthastia,Potthastia sp. TP16
+DHSSI446-24,SSI-Yuba-44350-F2,Yuba,Psychoglypha,98.87,Psychoglypha,Psychoglypha sp.
+DHSSI421-24,SSI-Yuba-44350-D1,Yuba,Epeorus,98.88,Epeorus,Epeorus sp.
+DHSSI430-24,SSI-Yuba-44350-D10,Yuba,Epeorus,98.88,Epeorus,Epeorus sp.
+DHSSI437-24,SSI-Yuba-44350-E5,Yuba,Sweltsa,99.06,Sweltsa,Sweltsa borealis
+DHSSI436-24,SSI-Yuba-44350-E4,Yuba,Yoraperla,99.08,Yoraperla,Yoraperla nigrisoma
+DHSSI450-24,SSI-Yuba-44350-F6,Yuba,Lepidostoma cascadense,99.08,Lepidostoma,Lepidostoma cascadense
+DHSSI455-24,SSI-Yuba-44350-F11,Yuba,Potthastia gaedii,99.08,Potthastia,Potthastia sp. TP16
+DHSSI468-24,SSI-Yuba-44350-G12,Yuba,Tvetenia bavarica,99.08,Tvetenia,Tvetenia bavarica gr.
+DHSSI409-24,SSI-Sentinel-44350-C1,Sentinel,Onocosmoecus sequoiae,99.15,Onocosmoecus,Onocosmoecus sequoiae
+DHSSI479-24,SSI-Yuba-44350-H11,Yuba,Drunella flavilinea,99.19,Drunella,Drunella flavilinea
+DHSSI429-24,SSI-Yuba-44350-D9,Yuba,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI477-24,SSI-Yuba-44350-H9,Yuba,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI443-24,SSI-Yuba-44350-E11,Yuba,Lepidostoma,99.52,Lepidostoma,Lepidostoma unicolor
+DHSSI442-24,SSI-Yuba-44350-E10,Yuba,Ephemerella excrucians,99.54,Ephemerella,Ephemerella dorothea
+DHSSI438-24,SSI-Yuba-44350-E6,Yuba,Heterlimnius corpulentus,99.67,Heterlimnius,Heterlimnius corpulentus
+DHSSI464-24,SSI-Yuba-44350-G8,Yuba,Thienemannimyia,99.68,Conchapelopia,Conchapelopia sp. CATP8.2
+DHSSI439-24,SSI-Yuba-44350-E7,Yuba,Ampumixis dispar,99.69,Ampumixis,Ampumixis dispar
+DHSSI451-24,SSI-Yuba-44350-F7,Yuba,Rhyacophila angelita,99.69,Rhyacophila,Rhyacophila perplana
+DHSSI433-24,SSI-Yuba-44350-E1,Yuba,Malenka,99.84,Malenka,Malenka californica
+DHSSI434-24,SSI-Yuba-44350-E2,Yuba,Malenka,99.84,Malenka,Malenka californica
+DHSSI424-24,SSI-Yuba-44350-D4,Yuba,Drunella flavilinea,99.85,Drunella,Drunella flavilinea
+DHSSI441-24,SSI-Yuba-44350-E9,Yuba,Orohermes crepusculus,99.85,Orohermes,Orohermes crepusculus
+DHSSI444-24,SSI-Yuba-44350-E12,Yuba,Ceratopsyche,99.85,Hydropsyche,Hydropsyche oslari
+DHSSI447-24,SSI-Yuba-44350-F3,Yuba,Plectrocnemia,99.85,Polycentropus,Polycentropus variegatus
+DHSSI449-24,SSI-Yuba-44350-F5,Yuba,Rhyacophila brunnea,99.85,Rhyacophila,Rhyacophila DER sp ac
+DHSSI474-24,SSI-Yuba-44350-H6,Yuba,Planariidae,99.85,Hydropsyche,Hydropsyche oslari
+DHSSI405-24,SSI-Sentinel-44350-B9,Sentinel,Rhyacophila,100,Rhyacophila,Rhyacophila DER sp ac
+DHSSI418-24,SSI-Yuba-44350-C10,Yuba,Drunella flavilinea,100,Drunella,Drunella flavilinea
+DHSSI425-24,SSI-Yuba-44350-D5,Yuba,Diphetor hageni,100,Diphetor,Diphetor hageni
+DHSSI428-24,SSI-Yuba-44350-D8,Yuba,Diphetor hageni,100,Diphetor,Diphetor hageni
+DHSSI445-24,SSI-Yuba-44350-F1,Yuba,Rhyacophila betteni,100,Rhyacophila,Rhyacophila betteni gr.
+DHSSI448-24,SSI-Yuba-44350-F4,Yuba,Hydroptila,100,Hydroptila,Hydroptila arctia
+DHSSI453-24,SSI-Yuba-44350-F9,Yuba,Clinocera,100,Clinocera,Clinocera binotata
+DHSSI465-24,SSI-Yuba-44350-G9,Yuba,Micropsectra,100,Micropsectra,Micropsectra polita
+DHSSI480-24,SSI-Yuba-44351-A1,Yuba,Rhithrogena,90.37,Rhithrogena,Rhithrogena impersonata
+DHSSI481-24,SSI-Yuba-44351-A2,Yuba,Drunella flavilinea,100,Drunella,Drunella flavilinea
+DHSSI482-24,SSI-Yuba-44351-A3,Yuba,Epeorus,98.69,Epeorus,Epeorus sp.
+DHSSI484-24,SSI-Yuba-44351-A5,Yuba,Baetis,99.34,Baetis,Baetis bicaudatus
+DHSSI485-24,SSI-Yuba-44351-A6,Yuba,Cinygma,84.86,Cinygma,Cinygma sp. RN1
+DHSSI486-24,SSI-Yuba-44351-A7,Yuba,Dolophilodes,96.28,Dolophilodes,Dolophilodes aequalis
+DHSSI487-24,SSI-Yuba-44351-A8,Yuba,Ceratopsyche,99.85,Hydropsyche,Hydropsyche oslari
+DHSSI488-24,SSI-Yuba-44351-A9,Yuba,Lepidostoma,99.52,Lepidostoma,Lepidostoma unicolor
+DHSSI489-24,SSI-Yuba-44351-A10,Yuba,Agapetus,98,Agapetus,Agapetus sp.
+DHSSI490-24,SSI-Yuba-44351-A11,Yuba,Glossosoma,100,Glossosoma,Glossosoma oregonense
+DHSSI491-24,SSI-Yuba-44351-A12,Yuba,Apatania,99.54,Apatania,Apatania sorex
+DHSSI492-24,SSI-Yuba-44351-B1,Yuba,Siphlonurus,86.09,Siphlonurus,Siphlonurus minnoi
+DHSSI493-24,SSI-Yuba-44351-B2,Yuba,Narpus concolor,93.04,Narpus,Narpus sp.
+DHSSI494-24,SSI-Yuba-44351-B3,Yuba,Octogomphus specularis,99.85,Octogomphus,Octogomphus specularis
+DHSSI495-24,SSI-Yuba-44351-B4,Yuba,Ampumixis dispar,99.85,Ampumixis,Ampumixis dispar
+DHSSI496-24,SSI-Yuba-44351-B5,Yuba,Ampumixis dispar,99.85,Ampumixis,Ampumixis dispar
+DHSSI497-24,SSI-Yuba-44351-B6,Yuba,Pisidium,92.96,Pisidium,Pisidium ferrugineum
+DHSSI498-24,SSI-Yuba-44351-B7,Yuba,Brillia,90.15,Brillia,Brillia modesta gr. sp.
+DHSSI499-24,SSI-Yuba-44351-B8,Yuba,Polypedilum scalaenum,89.25,Polypedilum,Polypedilum sp. 13SC
+DHSSI500-24,SSI-Yuba-44351-B9,Yuba,Ameletus,85.65,Ameletus,Ameletus dissitus
+DHSSI501-24,SSI-Yuba-44351-B10,Yuba,Sperchonopsis,86.85,Sperchon,Sperchon rostratus
+DHSSI503-24,SSI-Yuba-44351-B12,Yuba,Tricorythodes,99.5,Baetis,Baetis bicaudatus
+DHSSI504-24,SSI-Yuba-44351-C1,Yuba,Caenis,98.08,Caenis,Caenis latipennis
+DHSSI505-24,SSI-Yuba-44351-C2,Yuba,Mystacides,100,Mystacides,Mystacides alafimbriatus
+DHSSI506-24,SSI-Yuba-44351-C3,Yuba,Tinodes,94.47,Tinodes,Tinodes consuetus
+DHSSI507-24,SSI-Yuba-44351-C4,Yuba,Chimarra,96.85,Chimarra,Chimarra utahensis
+DHSSI508-24,SSI-Yuba-44351-C5,Yuba,Hydropsyche,100,Hydropsyche,Hydropsyche californica
+DHSSI511-24,SSI-Yuba-44351-C8,Yuba,Maruina lanceolata,98.51,Maruina,Maruina lanceolata
+DHSSI512-24,SSI-Yuba-44351-C9,Yuba,Physa,100,Physella,Physella acuta
+DHSSI514-24,SSI-Yuba-44351-C11,Yuba,Pisidium,99.18,Pisidium,Pisidium sp.
+DHSSI515-24,SSI-Yuba-44351-C12,Yuba,Ferrissia,99.84,Ferrissia,Ferrissia californica
+DHSSI516-24,SSI-Yuba-44351-D1,Yuba,Paratendipes,99.69,Paratendipes,Paratendipes albimanus
+DHSSI517-24,SSI-Yuba-44351-D2,Yuba,Cryptochironomus,89.3,Cladopelma,Cladopelma viridulum
+DHSSI518-24,SSI-Yuba-44351-D3,Yuba,Dicrotendipes,88.99,Parachironomus,Parachironomus sp.
+DHSSI520-24,SSI-Yuba-44351-D5,Yuba,Serratella micheneri,98.78,Serratella,Serratella micheneri
+DHSSI521-24,SSI-Yuba-44351-D6,Yuba,Epeorus,98.69,Epeorus,Epeorus sp.
+DHSSI522-24,SSI-Yuba-44351-D7,Yuba,Ameletus,86.67,Ameletus,Ameletus andersoni
+DHSSI523-24,SSI-Yuba-44351-D8,Yuba,Tricorythodes,89.55,Tricorythodes,Tricorythodes sp. CA4
+DHSSI524-24,SSI-Yuba-44351-D9,Yuba,Afghanurus,98.17,Ecdyonurus,Ecdyonurus criddlei
+DHSSI525-24,SSI-Yuba-44351-D10,Yuba,Baetis,99.85,Baetis,Baetis tricaudatus
+DHSSI526-24,SSI-Yuba-44351-D11,Yuba,Acentrella,100,Acentrella,Acentrella insignificans
+DHSSI527-24,SSI-Yuba-44351-D12,Yuba,Serratella micheneri,99.69,Serratella,Serratella micheneri
+DHSSI528-24,SSI-Yuba-44351-E1,Yuba,Skwala,100,Skwala,Skwala americana
+DHSSI529-24,SSI-Yuba-44351-E2,Yuba,Malenka,99.69,Malenka,Malenka californica
+DHSSI530-24,SSI-Yuba-44351-E3,Yuba,Hesperoperla,100,Hesperoperla,Hesperoperla pacifica
+DHSSI531-24,SSI-Yuba-44351-E4,Yuba,Glossosoma,99.85,Glossosoma,Glossosoma oregonense
+DHSSI532-24,SSI-Yuba-44351-E5,Yuba,Rhyacophila betteni,99.35,Rhyacophila,Rhyacophila malkini
+DHSSI533-24,SSI-Yuba-44351-E6,Yuba,Wormaldia,99.69,Wormaldia,Wormaldia gabriella
+DHSSI534-24,SSI-Yuba-44351-E7,Yuba,Ochrotrichia,94.78,Ochrotrichia,Ochrotrichia logana
+DHSSI536-24,SSI-Yuba-44351-E9,Yuba,Glossosoma,99.85,Glossosoma,Glossosoma oregonense
+DHSSI537-24,SSI-Yuba-44351-E10,Yuba,Deuteronectes picturatus,100,Nectoporus,Nectoporus abbreviatus
+DHSSI539-24,SSI-Yuba-44351-E12,Yuba,Zaitzevia,87.36,Okalia,Okalia necopinata
+DHSSI540-24,SSI-Yuba-44351-F1,Yuba,Zaitzevia,87.52,Okalia,Okalia necopinata
+DHSSI541-24,SSI-Yuba-44351-F2,Yuba,Simulium,99.53,Simulium,Simulium saxosum
+DHSSI542-24,SSI-Yuba-44351-F3,Yuba,Antocha,91.12,Chionea,Chionea lutescens
+DHSSI543-24,SSI-Yuba-44351-F4,Yuba,Clitellata,99.85,Eiseniella,Eiseniella tetraedra
+DHSSI544-24,SSI-Yuba-44351-F5,Yuba,Stenocolus scutellaris,85.49,Ictelmis,Ictelmis martae
+DHSSI545-24,SSI-Yuba-44351-F6,Yuba,Timpanoga hecuba,100,Timpanoga,Timpanoga hecuba
+DHSSI546-24,SSI-Yuba-44351-F7,Yuba,Rhyacophila angelita,99.39,Rhyacophila,Rhyacophila perplana
+DHSSI547-24,SSI-Yuba-44351-F8,Yuba,Plectrocnemia,99.85,Polycentropus,Polycentropus halidus
+DHSSI548-24,SSI-Yuba-44351-F9,Yuba,Calineuria californica,100,Calineuria,Calineuria californica
+DHSSI549-24,SSI-Yuba-44351-F10,Yuba,Pacifastacus leniusculus,100,Pacifastacus,Pacifastacus leniusculus
+DHSSI550-24,SSI-Yuba-44351-F11,Yuba,Cardiocladius,87.75,Cardiocladius,Cardiocladius fuscus
+DHSSI551-24,SSI-Yuba-44351-F12,Yuba,Afghanurus,98.01,Ecdyonurus,Ecdyonurus criddlei
+DHSSI552-24,SSI-Yuba-44351-G1,Yuba,Phaenopsectra,89.86,Phaenopsectra,Phaenopsectra punctipes
+DHSSI553-24,SSI-Yuba-44351-G2,Yuba,Psychoglypha,100,Psychoglypha,Psychoglypha bella
+DHSSI554-24,SSI-Yuba-44351-G3,Yuba,Rheotanytarsus,87.79,Rheotanytarsus,Rheotanytarsus muscicola
+DHSSI555-24,SSI-Yuba-44351-G4,Yuba,Pentaneura,99.85,Pentaneura,Pentaneura sp. TRP
+DHSSI556-24,SSI-Yuba-44351-G5,Yuba,Eukiefferiella brehmi,89.14,Hydrobaenus,Hydrobaenus conformis
+DHSSI557-24,SSI-Yuba-44351-G6,Yuba,Cricotopus,90.67,Cricotopus,Cricotopus cf. flavocinctus
+DHSSI558-24,SSI-Yuba-44351-G7,Yuba,Synorthocladius,96.04,Synorthocladius,Synorthocladius semivirens
+DHSSI560-24,SSI-Yuba-44351-G9,Yuba,Microtendipes pedellus,99.39,Microtendipes,Microtendipes pedellus
+DHSSI561-24,SSI-Yuba-44351-G10,Yuba,Sperchon,92.05,Sperchon,Sperchon sp0938A
+DHSSI562-24,SSI-Yuba-44351-G11,Yuba,Pentaneura,99.69,Pentaneura,Pentaneura sp. TRP
+DHSSI563-24,SSI-Yuba-44351-G12,Yuba,Paratanytarsus,97.08,Paratanytarsus,Paratanytarsus sp.
+DHSSI564-24,SSI-Yuba-44351-H1,Yuba,Zavrelimyia,97.76,Zavrelimyia,Zavrelimyia sinuosa
+DHSSI565-24,SSI-Yuba-44351-H2,Yuba,Paracladopelma,91.11,Paracladopelma,Paracladopelma undine
+DHSSI566-24,SSI-Yuba-44351-H3,Yuba,Pseudochironomus,100,Pseudochironomus,Pseudochironomus richardsoni
+DHSSI567-24,SSI-Yuba-44351-H4,Yuba,Heterotrissocladius marcidus,96.1,Heterotrissocladius,Heterotrissocladius sp.
+DHSSI568-24,SSI-Yuba-44351-H5,Yuba,Lebertia,91.9,Lebertia,Lebertia sp09103A
+DHSSI569-24,SSI-Yuba-44351-H6,Yuba,Sperchon,88.47,Sperchon,Sperchon insignis
+DHSSI571-24,SSI-Yuba-44351-H8,Yuba,Fossaria,100,Galba,Galba truncatula
+DHSSI572-24,SSI-Yuba-44351-H9,Yuba,Atrichopogon,93.54,Forcipomyia,Forcipomyia sp. 4ES
+DHSSI573-24,SSI-Yuba-44351-H10,Yuba,Rheocricotopus,100,Rheocricotopus,Rheocricotopus robacki
+DHSSI574-24,SSI-Yuba-44351-H11,Yuba,Ablabesmyia,89.97,Ablabesmyia,Ablabesmyia aspera
+DHSSI575-24,SSI-Yuba-44352-A1,Yuba,Zavrelimyia,99.16,Zavrelimyia,
+DHSSI576-24,SSI-Yuba-44352-A2,Yuba,Parochlus kiefferi,99.85,,
+DHSSI577-24,SSI-Yuba-44352-A3,Yuba,Potthastia longimanus,95.87,Potthastia,
+DHSSI578-24,SSI-Yuba-44352-A4,Yuba,Tvetenia discoloripes,99.65,Smittia,
+DHSSI579-24,SSI-Yuba-44352-A5,Yuba,Polypedilum aviceps,100,,
+DHSSI580-24,SSI-Yuba-44352-A6,Yuba,Dicrotendipes,100,Dicrotendipes,
+DHSSI581-24,SSI-Yuba-44352-A7,Yuba,Rheotanytarsus,100,,
+DHSSI582-24,SSI-Yuba-44352-A8,Yuba,Thienemanniella xena,100,,
+DHSSI583-24,SSI-Yuba-44352-A9,Yuba,Paratanytarsus,97.7,,
+DHSSI584-24,SSI-Yuba-44352-A10,Yuba,Apedilum,100,Microtendipes,
+DHSSI585-24,SSI-Yuba-44352-A11,Yuba,Phaenopsectra,100,Phaenopsectra,
+DHSSI588-24,SSI-ExcelsiorRG-44352-B2,Excelsior,Pseudodiamesa,99.68,Pseudodiamesa,Pseudodiamesa sp.
+DHSSI591-24,SSI-Yuba-44352-B5,Yuba,Baetis,100,Baetis,
+DHSSI592-24,SSI-Yuba-44352-B6,Yuba,Serratella tibialis,100,Serratella,Serratella tibialis
+DHSSI593-24,SSI-Yuba-44352-B7,Yuba,Epeorus,100,Epeorus,
+DHSSI595-24,SSI-Yuba-44352-B9,Yuba,Neoleptophlebia,99.39,Paraleptophlebia,
+DHSSI596-24,SSI-Yuba-44352-B10,Yuba,Ameletus,99.85,Ameletus,
+DHSSI597-24,SSI-Yuba-44352-B11,Yuba,Baetis,99.69,Baetis,
+DHSSI598-24,SSI-Yuba-44352-B12,Yuba,Calineuria californica,99.49,Ameletus,
+DHSSI599-24,SSI-Yuba-44352-C1,Yuba,Gumaga,99.85,Gumaga,
+DHSSI601-24,SSI-Yuba-44352-C3,Yuba,Heteroplectron californicum,100,Heteroplectron,Heteroplectron californicum
+DHSSI603-24,SSI-Yuba-44352-C5,Yuba,Rhyacophila angelita,99.08,Rhyacophila,Rhyacophila perplana
+DHSSI604-24,SSI-Yuba-44352-C6,Yuba,Eubrianax edwardsii,100,Eubrianax,Eubrianax edwardsii
+DHSSI605-24,SSI-Yuba-44352-C7,Yuba,Orohermes crepusculus,99.85,Orohermes,Orohermes crepusculus
+DHSSI606-24,SSI-Yuba-44352-C8,Yuba,Optioservus quadrimaculatus,100,Optioservus,Optioservus quadrimaculatus
+DHSSI607-24,SSI-Yuba-44352-C9,Yuba,Optioservus quadrimaculatus,100,Optioservus,Optioservus divergens
+DHSSI608-24,SSI-Yuba-44352-C10,Yuba,Zaitzevia,99.39,Heterlimnius,Heterlimnius corpulentus
+DHSSI609-24,SSI-Yuba-44352-C11,Yuba,Ampumixis dispar,99.69,Ampumixis,Ampumixis dispar
+DHSSI610-24,SSI-Yuba-44352-C12,Yuba,Epeorus,99.85,Epeorus,
+DHSSI611-24,SSI-Yuba-44352-D1,Yuba,Hexatoma,99.85,Hexatoma,
+DHSSI612-24,SSI-Yuba-44352-D2,Yuba,Suwallia,99.69,Suwallia,
+DHSSI613-24,SSI-Yuba-44352-D3,Yuba,Nectoporus obesus,86.39,Deronectes,Deronectes moestus
+DHSSI614-24,SSI-Yuba-44352-D4,Yuba,Ameletus,99.85,Ameletus,
+DHSSI615-24,SSI-Yuba-44352-D5,Yuba,Cryptolabis,99.54,,
+DHSSI616-24,SSI-Yuba-44352-D6,Yuba,Dicranota,100,Dicranota,
+DHSSI617-24,SSI-Yuba-44352-D7,Yuba,Torrenticola,91.47,,
+DHSSI618-24,SSI-Yuba-44352-D8,Yuba,Torrenticola,97.4,Torrenticola,
+DHSSI619-24,SSI-Yuba-44352-D9,Yuba,Rheotanytarsus,99.54,Rheotanytarsus,
+DHSSI620-24,SSI-Yuba-44352-D10,Yuba,Thienemannimyia,99.52,Conchapelopia,Conchapelopia sp. CATP8.2
+DHSSI621-24,SSI-Yuba-44352-D11,Yuba,Pagastia partica,91.74,Potthastia,Potthastia montium
+DHSSI622-24,SSI-Yuba-44352-D12,Yuba,Zavrelimyia,99.84,Zavrelimyia,Zavrelimyia sinuosa
+DHSSI623-24,SSI-Yuba-44352-E1,Yuba,Eukiefferiella pseudomontana,98.47,Eukiefferiella,Eukiefferiella pseudomontana
+DHSSI624-24,SSI-Yuba-44352-E2,Yuba,Baetis,100,Baetis,
+DHSSI625-24,SSI-Yuba-44352-E3,Yuba,Drunella spinifera,85.78,,
+DHSSI626-24,SSI-Yuba-44352-E4,Yuba,Afghanurus,100,Afghanurus,
+DHSSI628-24,SSI-Yuba-44352-E6,Yuba,Drunella doddsii,98.78,Drunella,Drunella doddsii
+DHSSI629-24,SSI-Yuba-44352-E7,Yuba,Epeorus,100,Epeorus,
+DHSSI630-24,SSI-Yuba-44352-E8,Yuba,Afghanurus,100,Afghanurus,
+DHSSI631-24,SSI-Yuba-44352-E9,Yuba,Epeorus,100,Epeorus,
+DHSSI632-24,SSI-Yuba-44352-E10,Yuba,Serratella micheneri,99.69,Ephemerella,Ephemerella dorothea
+DHSSI633-24,SSI-Yuba-44352-E11,Yuba,Drunella spinifera,85.78,,
+DHSSI634-24,SSI-Yuba-44352-E12,Yuba,Perlinodes aurea,99.39,Perlinodes,Perlinodes aurea
+DHSSI635-24,SSI-Yuba-44352-F1,Yuba,Malenka,99.84,Malenka,
+DHSSI636-24,SSI-Yuba-44352-F2,Yuba,Zapada,100,,
+DHSSI637-24,SSI-Yuba-44352-F3,Yuba,Calineuria californica,99.82,Calineuria,Calineuria californica
+DHSSI638-24,SSI-Yuba-44352-F4,Yuba,Micrasema,95.73,Micrasema,Micrasema bactro
+DHSSI639-24,SSI-Yuba-44352-F5,Yuba,Lepidostoma,100,Lepidostoma,Lepidostoma rayneri
+DHSSI640-24,SSI-Yuba-44352-F6,Yuba,Arctopsyche grandis,100,Arctopsyche,Arctopsyche grandis
+DHSSI641-24,SSI-Yuba-44352-F7,Yuba,Rhyacophila narvae,100,Rhyacophila,Rhyacophila narvae
+DHSSI642-24,SSI-Yuba-44352-F8,Yuba,Agapetus,98,,
+DHSSI643-24,SSI-Yuba-44352-F9,Yuba,Lepidostoma,100,Lepidostoma,Lepidostoma rayneri
+DHSSI644-24,SSI-Yuba-44352-F10,Yuba,Micrasema,95.73,Micrasema,Micrasema bactro
+DHSSI645-24,SSI-Yuba-44352-F11,Yuba,Neophylax,100,,
+DHSSI646-24,SSI-Yuba-44352-F12,Yuba,Ceratopsyche,99.85,Hydropsyche,Hydropsyche oslari
+DHSSI647-24,SSI-Yuba-44352-G1,Yuba,Gumaga,99.85,Gumaga,
+DHSSI648-24,SSI-Yuba-44352-G2,Yuba,Ampumixis dispar,99.69,Ampumixis,Ampumixis dispar
+DHSSI649-24,SSI-Yuba-44352-G3,Yuba,Optioservus quadrimaculatus,100,Optioservus,Optioservus quadrimaculatus
+DHSSI650-24,SSI-Yuba-44352-G4,Yuba,Eubrianax edwardsii,100,Eubrianax,Eubrianax edwardsii
+DHSSI651-24,SSI-Yuba-44352-G5,Yuba,Oroperla barbara,99.69,Oroperla,Oroperla barbara
+DHSSI652-24,SSI-Yuba-44352-G6,Yuba,Arctopsyche grandis,100,Arctopsyche,Arctopsyche grandis
+DHSSI653-24,SSI-Yuba-44352-G7,Yuba,Planariidae,99.69,Baetis,
+DHSSI654-24,SSI-Yuba-44352-G8,Yuba,Diphetor hageni,99.39,Diphetor,Diphetor hageni
+DHSSI655-24,SSI-Yuba-44352-G9,Yuba,Neoleptophlebia,99.66,Paraleptophlebia,
+DHSSI656-24,SSI-Yuba-44352-G10,Yuba,Baetis,99.69,Baetis,
+DHSSI657-24,SSI-Yuba-44352-G11,Yuba,Cinygma,99.53,Cinygma,
+DHSSI658-24,SSI-Yuba-44352-G12,Yuba,Ironodes,99.69,Ironodes,
+DHSSI659-24,SSI-Yuba-44352-H1,Yuba,Baetis,99.83,Baetis,
+DHSSI660-24,SSI-Yuba-44352-H2,Yuba,Diphetor hageni,99.85,Diphetor,Diphetor hageni
+DHSSI661-24,SSI-Yuba-44352-H3,Yuba,Hesperoperla,99.84,Hesperoperla,Hesperoperla hoguei
+DHSSI662-24,SSI-Yuba-44352-H4,Yuba,Sweltsa,100,Sweltsa,Sweltsa pacifica
+DHSSI663-24,SSI-Yuba-44352-H5,Yuba,Zapada,100,,
+DHSSI664-24,SSI-Yuba-44352-H6,Yuba,Cordulegaster dorsalis,99.69,Cordulegaster,Cordulegaster dorsalis
+DHSSI665-24,SSI-Yuba-44352-H7,Yuba,Octogomphus specularis,100,Octogomphus,Octogomphus specularis
+DHSSI666-24,SSI-Yuba-44352-H8,Yuba,Juga,97.71,Juga,
+DHSSI667-24,SSI-Yuba-44352-H9,Yuba,Physa,96.91,Physella,Physella gyrina
+DHSSI668-24,SSI-Yuba-44352-H10,Yuba,Bezzia,97.86,,
+DHSSI669-24,SSI-Yuba-44352-H11,Yuba,Apatania,99.69,Apatania,
+DHSSI860-24,SSI-American-44353-A1,American,Ceratopsyche,100,Hydropsyche,Hydropsyche oslari
+DHSSI866-24,SSI-American-44353-A7,American,Sweltsa,99.69,Alloperla,Alloperla chandleri
+DHSSI867-24,SSI-American-44353-A8,American,Drunella flavilinea,99.02,Drunella,Drunella flavilinea
+DHSSI872-24,SSI-American-44353-B1,American,Baetis,99.34,Baetis,Baetis bicaudatus
+DHSSI877-24,SSI-American-44353-B6,American,Yoraperla,99.08,Yoraperla,Yoraperla nigrisoma
+DHSSI878-24,SSI-American-44353-B7,American,Plectrocnemia,99.85,Polycentropus,Polycentropus variegatus
+DHSSI881-24,SSI-American-44353-B10,American,Calineuria californica,99.15,Calineuria,Calineuria californica
+DHSSI882-24,SSI-American-44353-B11,American,Epeorus longimanus,98.62,Epeorus,Epeorus longimanus
+DHSSI883-24,SSI-American-44353-B12,American,Suwallia,99.39,Alloperla,Alloperla chandleri
+DHSSI885-24,SSI-American-44353-C2,American,Prosimulium,100,Prosimulium,Prosimulium exigens
+DHSSI886-24,SSI-American-44353-C3,American,Ameletus,98.89,Ameletus,Ameletus amador
+DHSSI887-24,SSI-American-44353-C4,American,Drunella coloradensis,99.85,Drunella,Drunella flavilinea
+DHSSI888-24,SSI-American-44353-C5,American,Ceratopsyche,99.23,Hydropsyche,Hydropsyche amblis
+DHSSI889-24,SSI-American-44353-C6,American,Dicosmoecus,99.85,Dicosmoecus,Dicosmoecus sp. 12A202782
+DHSSI891-24,SSI-American-44353-C8,American,Helodon onychodactylus,99.51,Helodon,Helodon onychodactylus complex
+DHSSI899-24,SSI-American-44353-D4,American,Drunella flavilinea,100,Drunella,Drunella flavilinea
+DHSSI900-24,SSI-American-44353-D5,American,Visoka cataractae,98.76,Visoka,Visoka cataractae
+DHSSI901-24,SSI-American-44353-D6,American,Ameletus,99.21,Ameletus,Ameletus amador
+DHSSI902-24,SSI-American-44353-D7,American,Sweltsa,99.08,Alloperla,Alloperla chandleri
+DHSSI904-24,SSI-American-44353-D9,American,Epeorus,99.39,Epeorus,Epeorus nr. dulciana
+DHSSI905-24,SSI-American-44353-D10,American,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI907-24,SSI-American-44353-D12,American,Pteronarcys,99.39,Pteronarcys,Pteronarcys princeps
+DHSSI908-24,SSI-American-44353-E1,American,Sweltsa,98.93,Sweltsa,Sweltsa borealis
+DHSSI910-24,SSI-American-44353-E3,American,Eukiefferiella devonica,98.16,Eukiefferiella,Eukiefferiella devonica gr.
+DHSSI911-24,SSI-American-44353-E4,American,Neophylax splendens,99.38,Neophylax,Neophylax rickeri
+DHSSI918-24,SSI-American-44353-E11,American,Orohermes crepusculus,99.69,Orohermes,Orohermes crepusculus
+DHSSI919-24,SSI-American-44353-E12,American,Cultus,98.32,Susulus,Susulus venustus
+DHSSI920-24,SSI-American-44353-F1,American,Baetis,99.34,Baetis,Baetis bicaudatus
+DHSSI924-24,SSI-American-44353-F5,American,Epeorus,98.5,Epeorus,Epeorus sp.
+DHSSI926-24,SSI-American-44353-F7,American,Yoraperla,99.54,Yoraperla,Yoraperla nigrisoma
+DHSSI927-24,SSI-American-44353-F8,American,Hesperoperla,100,Hesperoperla,Hesperoperla hoguei
+DHSSI930-24,SSI-American-44353-F11,American,Rhyacophila angelita,99.69,Rhyacophila,Rhyacophila perplana
+DHSSI932-24,SSI-American-44353-G1,American,Rhyacophila narvae,100,Rhyacophila,Rhyacophila narvae
+DHSSI933-24,SSI-American-44353-G2,American,Isoperla,98.62,Susulus,Susulus venustus
+DHSSI934-24,SSI-American-44353-G3,American,Drunella flavilinea,98.86,Drunella,Drunella flavilinea
+DHSSI935-24,SSI-American-44353-G4,American,Psychoglypha,98.93,Psychoglypha,Psychoglypha sp.
+DHSSI936-24,SSI-American-44353-G5,American,Epeorus,99.68,Epeorus,Epeorus sp.
+DHSSI937-24,SSI-American-44353-G6,American,Arctopsyche grandis,99.54,Arctopsyche,Arctopsyche grandis
+DHSSI938-24,SSI-American-44353-G7,American,Pseudodiamesa,99.17,Pseudodiamesa,Pseudodiamesa sp. 20225A6
+DHSSI939-24,SSI-American-44353-G8,American,Baetis,99.34,Baetis,Baetis bicaudatus
+DHSSI940-24,SSI-American-44353-G9,American,Ecclisomyia,100,Ecclisomyia,Ecclisomyia sp.
+DHSSI941-24,SSI-American-44353-G10,American,Baetis,99.34,Baetis,Baetis bicaudatus
+DHSSI942-24,SSI-American-44353-G11,American,Zapada,100,Zapada,Zapada cinctipes
+DHSSI943-24,SSI-American-44353-G12,American,Malenka,99.84,Malenka,Malenka californica
+DHSSI945-24,SSI-American-44353-H2,American,Simulium,100,Simulium,Simulium annulitarse
+DHSSI946-24,SSI-American-44353-H3,American,Yphria californica,100,Yphria,Yphria californica
+DHSSI947-24,SSI-American-44353-H4,American,Rhyacophila brunnea,100,Rhyacophila,Rhyacophila DER sp ac
+DHSSI949-24,SSI-American-44353-H6,American,Yoraperla,99.39,Yoraperla,Yoraperla nigrisoma
+DHSSI950-24,SSI-American-44353-H7,American,Deuteronectes picturatus,98.14,Deuteronectes,Deuteronectes picturatus
+DHSSI953-24,SSI-American-44353-H10,American,Baetis,99.67,Baetis,Baetis bicaudatus
+DHSSI954-24,SSI-American-44353-H11,American,Sweltsa,100,Sweltsa,Sweltsa borealis
+DHSSI784-24,SSI-American-44354-B8,American,Anafroptilum,81.73,Andesiops,
+DHSSI828-24,SSI-American-44354-F4,American,Sperchon,85.66,Sperchon,
+DHSSI844-24,SSI-American-44354-G8,American,Paraphaenocladius,88.26,Parametriocnemus,
+DHSSI819-24,SSI-American-44354-E7,American,Ameletus,88.89,Ameletus,Ameletus andersoni
+DHSSI833-24,SSI-American-44354-F9,American,Rhyacophila alberta,90.1,Rhyacophila,Rhyacophila alberta
+DHSSI827-24,SSI-American-44354-F3,American,Diphetor hageni,91.59,Diphetor,
+DHSSI845-24,SSI-American-44354-G9,American,Limnophila,93.43,,
+DHSSI837-24,SSI-American-44354-G1,American,Deuteronectes picturatus,95.09,Deuteronectes,Deuteronectes picturatus
+DHSSI826-24,SSI-American-44354-F2,American,Hexatoma,96.23,Hexatoma,
+DHSSI834-24,SSI-American-44354-F10,American,Hexatoma,96.23,Hexatoma,
+DHSSI830-24,SSI-American-44354-F6,American,Drunella flavilinea,96.88,Drunella,Drunella spinifera
+DHSSI831-24,SSI-American-44354-F7,American,Rhyacophila verrula,96.92,Drunella,Drunella spinifera
+DHSSI857-24,SSI-American-44354-H9,American,Caudatella heterocaudata,97.14,Caudatella,Caudatella heterocaudata
+DHSSI783-24,SSI-American-44354-B7,American,Bezzia,97.55,,
+DHSSI803-24,SSI-American-44354-D3,American,Afghanurus,98.32,Afghanurus,
+DHSSI818-24,SSI-American-44354-E6,American,Ephemerella dorothea infrequens,98.32,,
+DHSSI779-24,SSI-American-44354-B3,American,Afghanurus,98.62,Afghanurus,
+DHSSI765-24,SSI-American-44354-A1,American,Boreonectes griseostriatus,98.75,Boreonectes,Boreonectes griseostriatus
+DHSSI795-24,SSI-American-44354-C7,American,Lebertia,98.87,Lebertia,
+DHSSI778-24,SSI-American-44354-B2,American,Paratanytarsus,98.92,,
+DHSSI843-24,SSI-American-44354-G7,American,Visoka cataractae,99.07,Visoka,Visoka cataractae
+DHSSI772-24,SSI-American-44354-A8,American,Ironodes,99.08,Ironodes,
+DHSSI780-24,SSI-American-44354-B4,American,Sialis,99.08,Sialis,
+DHSSI820-24,SSI-American-44354-E8,American,Epeorus longimanus,99.08,,
+DHSSI829-24,SSI-American-44354-F5,American,Sweltsa,99.08,Alloperla,Alloperla chandleri
+DHSSI790-24,SSI-American-44354-C2,American,Apatania,99.23,Apatania,
+DHSSI832-24,SSI-American-44354-F8,American,Prosimulium,99.35,Prosimulium,Prosimulium secretum
+DHSSI796-24,SSI-American-44354-C8,American,Cinygma,99.39,Cinygma,
+DHSSI822-24,SSI-American-44354-E10,American,Yoraperla,99.39,Yoraperla,Yoraperla nigrisoma
+DHSSI854-24,SSI-American-44354-H6,American,Suwallia,99.39,Alloperla,Alloperla chandleri
+DHSSI785-24,SSI-American-44354-B9,American,Pagastia,99.49,Pagastia,
+DHSSI789-24,SSI-American-44354-C1,American,Optioservus quadrimaculatus,99.51,Optioservus,Optioservus divergens
+DHSSI816-24,SSI-American-44354-E4,American,Cinygmula,99.53,,
+DHSSI791-24,SSI-American-44354-C3,American,Simulium,99.54,Simulium,
+DHSSI797-24,SSI-American-44354-C9,American,Epeorus,99.54,Epeorus,Epeorus nr. dulciana
+DHSSI811-24,SSI-American-44354-D11,American,Boreonectes griseostriatus,99.54,Boreonectes,Boreonectes griseostriatus
+DHSSI848-24,SSI-American-44354-G12,American,Neoleptophlebia,99.54,Paraleptophlebia,
+DHSSI852-24,SSI-American-44354-H4,American,Cinygmula,99.54,,
+DHSSI855-24,SSI-American-44354-H7,American,Neophylax splendens,99.54,,
+DHSSI793-24,SSI-American-44354-C5,American,Epeorus,99.61,Epeorus,Epeorus sp.
+DHSSI775-24,SSI-American-44354-A11,American,Epeorus,99.64,Epeorus,Epeorus nr. dulciana
+DHSSI766-24,SSI-American-44354-A2,American,Simulium,99.67,Simulium,Simulium canadense
+DHSSI767-24,SSI-American-44354-A3,American,Epeorus,99.68,Epeorus,Epeorus sp.
+DHSSI813-24,SSI-American-44354-E1,American,Neoleptophlebia,99.68,Paraleptophlebia,
+DHSSI770-24,SSI-American-44354-A6,American,Plectrocnemia,99.69,Polycentropus,Polycentropus halidus
+DHSSI773-24,SSI-American-44354-A9,American,Rheotanytarsus,99.69,,
+DHSSI787-24,SSI-American-44354-B11,American,Octogomphus specularis,99.69,Octogomphus,Octogomphus specularis
+DHSSI805-24,SSI-American-44354-D5,American,Calineuria californica,99.69,Calineuria,Calineuria californica
+DHSSI821-24,SSI-American-44354-E9,American,Diamesa,99.69,,
+DHSSI825-24,SSI-American-44354-F1,American,Cinygmula,99.69,,
+DHSSI835-24,SSI-American-44354-F11,American,Taenionema,99.69,Taenionema,Taenionema kincaidi
+DHSSI853-24,SSI-American-44354-H5,American,Rhyacophila angelita,99.69,Rhyacophila,Rhyacophila perplana
+DHSSI812-24,SSI-American-44354-D12,American,Epeorus,99.84,Epeorus,Epeorus sp.
+DHSSI769-24,SSI-American-44354-A5,American,Cinygma,99.85,Cinygma,
+DHSSI774-24,SSI-American-44354-A10,American,Parapsyche almota,99.85,Parapsyche,Parapsyche almota
+DHSSI781-24,SSI-American-44354-B5,American,Cordulegaster dorsalis,99.85,Cordulegaster,Cordulegaster dorsalis
+DHSSI798-24,SSI-American-44354-C10,American,Ampumixis dispar,99.85,Ampumixis,Ampumixis dispar
+DHSSI801-24,SSI-American-44354-D1,American,Baetis,99.85,Baetis,
+DHSSI804-24,SSI-American-44354-D4,American,Parapsyche almota,99.85,Parapsyche,Parapsyche almota
+DHSSI807-24,SSI-American-44354-D7,American,Neoleptophlebia,99.85,Paraleptophlebia,
+DHSSI814-24,SSI-American-44354-E2,American,Micropsectra,99.85,Tanytarsus,
+DHSSI815-24,SSI-American-44354-E3,American,Baetis,99.85,Baetis,
+DHSSI824-24,SSI-American-44354-E12,American,Lepidostoma,99.85,Lepidostoma,
+DHSSI851-24,SSI-American-44354-H3,American,Ameletus,99.85,,
+DHSSI768-24,SSI-American-44354-A4,American,Ochrotrichia,100,Hydroptila,
+DHSSI771-24,SSI-American-44354-A7,American,Pacifastacus leniusculus,100,Pacifastacus,Pacifastacus leniusculus
+DHSSI777-24,SSI-American-44354-B1,American,Hydroptila,100,Hydroptila,
+DHSSI782-24,SSI-American-44354-B6,American,Zaitzevia,100,Zaitzevia,
+DHSSI786-24,SSI-American-44354-B10,American,Hydropsyche,100,Hydropsyche,Hydropsyche occidentalis
+DHSSI788-24,SSI-American-44354-B12,American,Ameletus,100,Ameletus,
+DHSSI792-24,SSI-American-44354-C4,American,Ceratopsyche,100,Hydropsyche,Hydropsyche oslari
+DHSSI794-24,SSI-American-44354-C6,American,Clitellata,100,Eiseniella,Eiseniella tetraedra
+DHSSI799-24,SSI-American-44354-C11,American,Rhyacophila betteni,100,Rhyacophila,Rhyacophila betteni gr.
+DHSSI800-24,SSI-American-44354-C12,American,Wormaldia,100,,
+DHSSI802-24,SSI-American-44354-D2,American,Isoperla,100,Isoperla,Isoperla mormona
+DHSSI806-24,SSI-American-44354-D6,American,Epeorus,100,Epeorus,
+DHSSI808-24,SSI-American-44354-D8,American,Drunella flavilinea,100,Drunella,Drunella coloradensis
+DHSSI809-24,SSI-American-44354-D9,American,Pentaneura,100,,
+DHSSI810-24,SSI-American-44354-D10,American,Rhyacophila brunnea,100,Rhyacophila,Rhyacophila DER sp ac
+DHSSI817-24,SSI-American-44354-E5,American,Ironodes,100,Ironodes,
+DHSSI823-24,SSI-American-44354-E11,American,Lepidostoma cascadense,100,Lepidostoma,Lepidostoma cascadense
+DHSSI836-24,SSI-American-44354-F12,American,Ceratopsyche,100,Hydropsyche,Hydropsyche amblis
+DHSSI838-24,SSI-American-44354-G2,American,Baetis,100,,
+DHSSI839-24,SSI-American-44354-G3,American,Neoleptophlebia,100,Paraleptophlebia,
+DHSSI841-24,SSI-American-44354-G5,American,Serratella tibialis,100,Serratella,Serratella tibialis
+DHSSI842-24,SSI-American-44354-G6,American,Rhyacophila angelita,100,,
+DHSSI846-24,SSI-American-44354-G10,American,Rhyacophila betteni,100,,
+DHSSI856-24,SSI-American-44354-H8,American,Orohermes crepusculus,100,Orohermes,Orohermes crepusculus
+DHSSI858-24,SSI-American-44354-H10,American,Serratella tibialis,100,Serratella,Serratella tibialis
+DHSSI700-24,SSI-American-44355-C7,American,Matriella teresa,83.43,Ephemerella,Ephemerella dorothea
+DHSSI701-24,SSI-American-44355-C8,American,Hygrobates,84.26,Hygrobates,Hygrobates sp0943A
+DHSSI682-24,SSI-American-44355-B1,American,Ameletus,85.56,Parameletus,Parameletus chelifer
+DHSSI758-24,SSI-American-44355-H5,American,Siphlonurus,85.78,Siphlonurus,Siphlonurus minnoi
+DHSSI739-24,SSI-American-44355-F10,American,Taenionema,85.8,Taenionema,Taenionema pacificum
+DHSSI706-24,SSI-American-44355-D1,American,Tvetenia bavarica,86.14,Eukiefferiella,Eukiefferiella tirolensis
+DHSSI736-24,SSI-American-44355-F7,American,Polypedilum aviceps,87.5,Phaenopsectra,Phaenopsectra punctipes
+DHSSI702-24,SSI-American-44355-C9,American,Polypedilum aviceps,87.81,Phaenopsectra,Phaenopsectra punctipes
+DHSSI718-24,SSI-American-44355-E1,American,Rheotanytarsus,87.86,Rheotanytarsus,Rheotanytarsus sp. 25XL
+DHSSI719-24,SSI-American-44355-E2,American,Torrenticola,87.92,Torrenticola,Torrenticola tjiwalensis
+DHSSI688-24,SSI-American-44355-B7,American,Polypedilum aviceps,88.17,Polypedilum,Polypedilum titicacae
+DHSSI763-24,SSI-American-44355-H10,American,Dixa,88.63,Dixella,Dixella obscura
+DHSSI743-24,SSI-American-44355-G2,American,Dolichopodidae,88.65,Chionea,Chionea lutescens
+DHSSI713-24,SSI-American-44355-D8,American,Dixa,88.97,Dixella,Dixella bankowskae
+DHSSI755-24,SSI-American-44355-H2,American,Hydraena,89.4,Hydraena,Hydraena angulicollis
+DHSSI690-24,SSI-American-44355-B9,American,Lebertia,89.45,Lebertia,Lebertia porosa
+DHSSI761-24,SSI-American-44355-H8,American,Dixella,90.06,Dixella,Dixella lobata
+DHSSI717-24,SSI-American-44355-D12,American,Ironodes,90.37,Ironodes,Ironodes sp. JMW1
+DHSSI722-24,SSI-American-44355-E5,American,Antocha,91.12,Chionea,Chionea lutescens
+DHSSI749-24,SSI-American-44355-G8,American,Cricotopus,91.31,Orthocladius,Orthocladius dentifer
+DHSSI703-24,SSI-American-44355-C10,American,Dixa,91.32,Parochlus,Parochlus kiefferi
+DHSSI740-24,SSI-American-44355-F11,American,Cricotopus,91.48,Orthocladius,Orthocladius dentifer
+DHSSI746-24,SSI-American-44355-G5,American,Prosimulium,91.54,Prosimulium,Prosimulium magnum spp Group
+DHSSI747-24,SSI-American-44355-G6,American,Rhyacophila rotunda,93.15,Rhyacophila,Rhyacophila norcuta
+DHSSI674-24,SSI-American-44355-A5,American,Suwallia,93.27,Suwallia,Suwallia sp. BIOUG01
+DHSSI728-24,SSI-American-44355-E11,American,Dicranota,93.88,Dicranota,Dicranota persimilis
+DHSSI676-24,SSI-American-44355-A7,American,Hexatoma,94.19,Hexatoma,Hexatoma spinosa
+DHSSI759-24,SSI-American-44355-H6,American,Tinodes,94.47,Tinodes,Tinodes consuetus
+DHSSI673-24,SSI-American-44355-A4,American,Cinygmula,94.66,Cinygmula,Cinygmula sp. RN1
+DHSSI678-24,SSI-American-44355-A9,American,Ephemerella dorothea infrequens,94.8,Ephemerella,Ephemerella dorothea
+DHSSI681-24,SSI-American-44355-A12,American,Cinygmula,94.82,Cinygmula,Cinygmula sp.
+DHSSI737-24,SSI-American-44355-F8,American,Neohermes filicornis,95.23,Neohermes,Neohermes californicus
+DHSSI756-24,SSI-American-44355-H3,American,Neohermes filicornis,95.23,Neohermes,Neohermes californicus
+DHSSI697-24,SSI-American-44355-C4,American,Neoleptophlebia,95.69,Neoleptophlebia,Neoleptophlebia memorialis
+DHSSI686-24,SSI-American-44355-B5,American,Neoleptophlebia,95.85,Neoleptophlebia,Neoleptophlebia memorialis
+DHSSI748-24,SSI-American-44355-G7,American,Wormaldia,96.64,Wormaldia,Wormaldia birneyi
+DHSSI705-24,SSI-American-44355-C12,American,Thienemannimyia,96.79,Thienemannimyia,Thienemannimyia grp.
+DHSSI738-24,SSI-American-44355-F9,American,Prosimulium,97.24,Prosimulium,Prosimulium flaviantennus
+DHSSI752-24,SSI-American-44355-G11,American,Sanfilippodytes,97.4,Sanfilippodytes,Sanfilippodytes sp. NHM-IR441
+DHSSI671-24,SSI-American-44355-A2,American,Epeorus longimanus,98.32,Epeorus,Epeorus longimanus
+DHSSI695-24,SSI-American-44355-C2,American,Epeorus longimanus,98.47,Epeorus,Epeorus longimanus
+DHSSI677-24,SSI-American-44355-A8,American,Epeorus longimanus,98.62,Epeorus,Epeorus longimanus
+DHSSI733-24,SSI-American-44355-F4,American,Drunella doddsii,98.78,Drunella,Drunella doddsii
+DHSSI745-24,SSI-American-44355-G4,American,Tvetenia bavarica,98.78,Tvetenia,Tvetenia bavarica gr.
+DHSSI710-24,SSI-American-44355-D5,American,Epeorus,98.88,Epeorus,Epeorus sp.
+DHSSI691-24,SSI-American-44355-B10,American,Neophylax,99.23,Neophylax,Neophylax rickeri
+DHSSI715-24,SSI-American-44355-D10,American,Ordobrevia,99.24,Ordobrevia,Ordobrevia nubifera
+DHSSI680-24,SSI-American-44355-A11,American,Onocosmoecus,99.34,Onocosmoecus,Onocosmoecus unicolor
+DHSSI696-24,SSI-American-44355-C3,American,Baetis,99.34,Baetis,Baetis bicaudatus
+DHSSI724-24,SSI-American-44355-E7,American,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI729-24,SSI-American-44355-E12,American,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI742-24,SSI-American-44355-G1,American,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI751-24,SSI-American-44355-G10,American,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI675-24,SSI-American-44355-A6,American,Baetis,99.54,Baetis,Baetis adonis
+DHSSI727-24,SSI-American-44355-E10,American,Wormaldia,99.54,Wormaldia,Wormaldia gabriella
+DHSSI730-24,SSI-American-44355-F1,American,Epeorus,99.54,Epeorus,Epeorus nr. dulciana
+DHSSI734-24,SSI-American-44355-F5,American,Epeorus,99.68,Epeorus,Epeorus sp.
+DHSSI672-24,SSI-American-44355-A3,American,Drunella flavilinea,99.69,Drunella,Drunella flavilinea
+DHSSI683-24,SSI-American-44355-B2,American,Drunella flavilinea,99.69,Drunella,Drunella flavilinea
+DHSSI687-24,SSI-American-44355-B6,American,Suwallia,99.69,Alloperla,Alloperla chandleri
+DHSSI693-24,SSI-American-44355-B12,American,Calineuria californica,99.69,Calineuria,Calineuria californica
+DHSSI757-24,SSI-American-44355-H4,American,Aeshna interrupta,99.69,Aeshna,Aeshna interrupta
+DHSSI741-24,SSI-American-44355-F12,American,Capnia,99.82,Arsapnia,Arsapnia tumida
+DHSSI704-24,SSI-American-44355-C11,American,Drunella flavilinea,99.84,Drunella,Drunella flavilinea
+DHSSI723-24,SSI-American-44355-E6,American,Malenka,99.84,Malenka,Malenka californica
+DHSSI731-24,SSI-American-44355-F2,American,Simulium,99.84,Simulium,Simulium virgatum
+DHSSI670-24,SSI-Yuba-44355-A1,Yuba,Heteroplectron californicum,99.85,Heteroplectron,Heteroplectron californicum
+DHSSI689-24,SSI-American-44355-B8,American,Plectrocnemia,99.85,Polycentropus,Polycentropus variegatus
+DHSSI692-24,SSI-American-44355-B11,American,Micrasema,99.85,Micrasema,Micrasema bactro
+DHSSI707-24,SSI-American-44355-D2,American,Ceratopsyche,99.85,Hydropsyche,Hydropsyche oslari
+DHSSI708-24,SSI-American-44355-D3,American,Potthastia gaedii,99.85,Potthastia,Potthastia sp. TP16
+DHSSI711-24,SSI-American-44355-D6,American,Simulium,99.85,Simulium,Simulium tuberosum complex
+DHSSI720-24,SSI-American-44355-E3,American,Rhyacophila brunnea,99.85,Rhyacophila,Rhyacophila DER sp ac
+DHSSI735-24,SSI-American-44355-F6,American,Ceratopsyche,99.85,Hydropsyche,Hydropsyche oslari
+DHSSI764-24,SSI-American-44355-H11,American,Drunella flavilinea,99.85,Drunella,Drunella flavilinea
+DHSSI679-24,SSI-American-44355-A10,American,Lepidostoma,100,Lepidostoma,Lepidostoma rayneri
+DHSSI684-24,SSI-American-44355-B3,American,Lepidostoma,100,Lepidostoma,Lepidostoma rayneri
+DHSSI685-24,SSI-American-44355-B4,American,Ordobrevia nubifera,100,Ordobrevia,Ordobrevia nubifera
+DHSSI698-24,SSI-American-44355-C5,American,Eukiefferiella claripennis,100,Eukiefferiella,Eukiefferiella claripennis
+DHSSI699-24,SSI-American-44355-C6,American,Lepidostoma,100,Lepidostoma,Lepidostoma unicolor
+DHSSI709-24,SSI-American-44355-D4,American,Diphetor hageni,100,Diphetor,Diphetor hageni
+DHSSI712-24,SSI-American-44355-D7,American,Rhyacophila coloradensis,100,Rhyacophila,Rhyacophila kernada
+DHSSI714-24,SSI-American-44355-D9,American,Nilotanypus,100,Nilotanypus,Nilotanypus fimbriatus
+DHSSI721-24,SSI-American-44355-E4,American,Calineuria californica,100,Calineuria,Calineuria californica
+DHSSI725-24,SSI-American-44355-E8,American,Rhyacophila betteni,100,Rhyacophila,Rhyacophila betteni gr.
+DHSSI726-24,SSI-American-44355-E9,American,Calineuria californica,100,Calineuria,Calineuria californica
+DHSSI732-24,SSI-American-44355-F3,American,Eukiefferiella claripennis,100,Eukiefferiella,Eukiefferiella claripennis
+DHSSI744-24,SSI-American-44355-G3,American,Micropsectra,100,Micropsectra,Micropsectra polita
+DHSSI750-24,SSI-American-44355-G9,American,Zavrelimyia,100,Zavrelimyia,Zavrelimyia thryptica
+DHSSI753-24,SSI-American-44355-G12,American,Eukiefferiella devonica,100,Eukiefferiella,Eukiefferiella devonica gr.
+DHSSI754-24,SSI-American-44355-H1,American,Eukiefferiella claripennis,100,Eukiefferiella,Eukiefferiella claripennis
+DHSSI762-24,SSI-American-44355-H9,American,Baetis,100,Baetis,Baetis tricaudatus
+DHSSI1426-24,SSI-Truckee-49440-B8,Truckee,Matriella teresa,83.1,Ephemerella,Ephemerella dorothea
+DHSSI1425-24,SSI-Truckee-49440-B7,Truckee,Attenella delantala,84.25,Ephemera,
+DHSSI1423-24,SSI-Truckee-49440-B5,Truckee,Potthastia longimanus,92.52,,
+DHSSI1416-24,SSI-Truckee-49440-A10,Truckee,Rhyacophila alberta,92.97,Rhyacophila,Rhyacophila alberta
+DHSSI1412-24,SSI-Truckee-49440-A6,Truckee,Hexatoma,96.23,Hexatoma,
+DHSSI1420-24,SSI-Truckee-49440-B2,Truckee,Drunella grandis,97.34,Drunella,Drunella grandis
+DHSSI1440-24,SSI-Truckee-49440-C10,Truckee,Psychoglypha,98.17,Psychoglypha,Psychoglypha sp.
+DHSSI1407-24,SSI-Truckee-49440-A1,Truckee,Simulium,98.47,,
+DHSSI1437-24,SSI-Truckee-49440-C7,Truckee,Rhyacophila grandis,98.6,Rhyacophila,Rhyacophila sequoia
+DHSSI1410-24,SSI-Truckee-49440-A4,Truckee,Drunella flavilinea,98.77,Drunella,Drunella flavilinea
+DHSSI1428-24,SSI-Truckee-49440-B10,Truckee,Calineuria californica,98.93,Calineuria,Calineuria californica
+DHSSI1447-24,SSI-Truckee-49440-D5,Truckee,Antocha,98.93,Antocha,
+DHSSI1429-24,SSI-Truckee-49440-B11,Truckee,Epeorus longimanus,99.08,,
+DHSSI1431-24,SSI-Truckee-49440-C1,Truckee,Rhyacophila brunnea,99.33,Rhyacophila,Rhyacophila brunnea
+DHSSI1417-24,SSI-Truckee-49440-A11,Truckee,Onocosmoecus,99.51,Onocosmoecus,Onocosmoecus unicolor
+DHSSI1439-24,SSI-Truckee-49440-C9,Truckee,Prosimulium,99.51,Prosimulium,Prosimulium flaviantennus
+DHSSI1414-24,SSI-Truckee-49440-A8,Truckee,Ceratopsyche,99.52,Hydropsyche,Hydropsyche amblis
+DHSSI1411-24,SSI-Truckee-49440-A5,Truckee,Rhithrogena,99.54,Rhithrogena,
+DHSSI1449-24,SSI-Truckee-49440-D7,Truckee,Suwallia,99.54,Suwallia,
+DHSSI1409-24,SSI-Truckee-49440-A3,Truckee,Cinygmula,99.69,,
+DHSSI1413-24,SSI-Truckee-49440-A7,Truckee,Sweltsa,99.69,Suwallia,
+DHSSI1421-24,SSI-Truckee-49440-B3,Truckee,Cinygmula,99.69,,
+DHSSI1422-24,SSI-Truckee-49440-B4,Truckee,Ameletus,99.69,,
+DHSSI1432-24,SSI-Truckee-49440-C2,Truckee,Neophylax splendens,99.69,,
+DHSSI1436-24,SSI-Truckee-49440-C6,Truckee,Antocha,99.69,Antocha,
+DHSSI1438-24,SSI-Truckee-49440-C8,Truckee,Epeorus longimanus,99.69,Epeorus,
+DHSSI1450-24,SSI-Truckee-49440-D8,Truckee,Pagastia,99.69,,
+DHSSI1451-24,SSI-Truckee-49440-D9,Truckee,Zapada,99.69,Zapada,
+DHSSI1453-24,SSI-Truckee-49440-D11,Truckee,Suwallia,99.69,Suwallia,
+DHSSI1415-24,SSI-Truckee-49440-A9,Truckee,Baetis,99.84,Baetis,
+DHSSI1408-24,SSI-Truckee-49440-A2,Truckee,Epeorus longimanus,99.85,Epeorus,
+DHSSI1424-24,SSI-Truckee-49440-B6,Truckee,Prosimulium,99.85,,
+DHSSI1434-24,SSI-Truckee-49440-C4,Truckee,Cricotopus nostocicola,99.85,Cricotopus,Cricotopus nostocicola
+DHSSI1443-24,SSI-Truckee-49440-D1,Truckee,Ceratopsyche,99.85,Hydropsyche,Hydropsyche oslari
+DHSSI1419-24,SSI-Truckee-49440-B1,Truckee,Nemoura,100,Podmosta,Podmosta delicatula
+DHSSI1427-24,SSI-Truckee-49440-B9,Truckee,Limnephilus,100,Dicosmoecus,Dicosmoecus gilvipes
+DHSSI1430-24,SSI-Truckee-49440-B12,Truckee,Lepidostoma,100,Lepidostoma,
+DHSSI1433-24,SSI-Truckee-49440-C3,Truckee,Glossosoma,100,Glossosoma,Glossosoma DER sp1
+DHSSI1435-24,SSI-Truckee-49440-C5,Truckee,Diphetor,100,Diphetor,
+DHSSI1442-24,SSI-Truckee-49440-C12,Truckee,Diamesa,100,Diamesa,
+DHSSI1445-24,SSI-Truckee-49440-D3,Truckee,Malenka,100,Malenka,
+DHSSI1446-24,SSI-Truckee-49440-D4,Truckee,Diphetor,100,Diphetor,
+DHSSI1448-24,SSI-Truckee-49440-D6,Truckee,Simulium,100,Simulium,
+DHSSI1452-24,SSI-Truckee-49440-D10,Truckee,Cricotopus,100,,
+DHSSI1454-24,SSI-Truckee-49440-D12,Truckee,Rhyacophila angelita,100,,
+DHSSI1312-24,SSI-Truckee-49441-A1,Truckee,Pseudodiamesa,99.39,Pseudodiamesa,Pseudodiamesa sp.
+DHSSI1313-24,SSI-Truckee-49441-A2,Truckee,Simulium,100,Simulium,Simulium canadense
+DHSSI1314-24,SSI-Truckee-49441-A3,Truckee,Simulium,99.38,Simulium,
+DHSSI1315-24,SSI-Truckee-49441-A4,Truckee,Baetis,99.84,,
+DHSSI1316-24,SSI-Truckee-49441-A5,Truckee,Parapsyche almota,100,Parapsyche,Parapsyche almota
+DHSSI1318-24,SSI-Truckee-49441-A7,Truckee,Eukiefferiella claripennis,100,,
+DHSSI1319-24,SSI-Truckee-49441-A8,Truckee,Micropsectra,100,Micropsectra,Micropsectra polita
+DHSSI1320-24,SSI-Truckee-49441-A9,Truckee,Rheocricotopus,100,Rheocricotopus,Rheocricotopus robacki
+DHSSI1321-24,SSI-Truckee-49441-A10,Truckee,Tvetenia,99.15,,
+DHSSI1323-24,SSI-Truckee-49441-A12,Truckee,Lepidostoma,99.85,Lepidostoma,
+DHSSI1324-24,SSI-Truckee-49441-B1,Truckee,Orohermes crepusculus,99.85,Orohermes,Orohermes crepusculus
+DHSSI1325-24,SSI-Truckee-49441-B2,Truckee,Drunella doddsii,98.92,Drunella,Drunella doddsii
+DHSSI1326-24,SSI-Truckee-49441-B3,Truckee,Drunella spinifera,96.72,Drunella,Drunella spinifera
+DHSSI1328-24,SSI-Truckee-49441-B5,Truckee,Neophylax splendens,99.69,,
+DHSSI1329-24,SSI-Truckee-49441-B6,Truckee,Doroneuria baumanni,100,Doroneuria,Doroneuria baumanni
+DHSSI1330-24,SSI-Truckee-49441-B7,Truckee,Epeorus longimanus,99.69,Epeorus,
+DHSSI1331-24,SSI-Truckee-49441-B8,Truckee,Ameletus,99.84,,
+DHSSI1332-24,SSI-Truckee-49441-B9,Truckee,Lepidostoma,100,Lepidostoma,
+DHSSI1333-24,SSI-Truckee-49441-B10,Truckee,Serratella tibialis,100,Serratella,Serratella tibialis
+DHSSI1334-24,SSI-Truckee-49441-B11,Truckee,Rhithrogena,98.37,Cinygmula,
+DHSSI1335-24,SSI-Truckee-49441-B12,Truckee,Hexatoma,96.23,Hexatoma,
+DHSSI1336-24,SSI-Truckee-49441-C1,Truckee,Nectoporus congruus,86.39,Deronectes,Deronectes moestus
+DHSSI1337-24,SSI-Truckee-49441-C2,Truckee,Frisonia picticeps,99.85,Frisonia,Frisonia picticeps
+DHSSI1338-24,SSI-Truckee-49441-C3,Truckee,Drunella coloradensis,95.42,Drunella,Drunella coloradensis A BG
+DHSSI1339-24,SSI-Truckee-49441-C4,Truckee,Ceratopsyche,99.36,Hydropsyche,Hydropsyche amblis
+DHSSI1340-24,SSI-Truckee-49441-C5,Truckee,Cinygmula,98.37,Cinygmula,
+DHSSI1341-24,SSI-Truckee-49441-C6,Truckee,Epeorus,100,Epeorus,
+DHSSI1342-24,SSI-Truckee-49441-C7,Truckee,Diamesa,99.54,Diamesa,
+DHSSI1343-24,SSI-Truckee-49441-C8,Truckee,Paraleptophlebia,99.54,Paraleptophlebia,
+DHSSI1344-24,SSI-Truckee-49441-C9,Truckee,Oroperla barbara,99.84,Oroperla,Oroperla barbara
+DHSSI1345-24,SSI-Truckee-49441-C10,Truckee,Suwallia,94.95,,
+DHSSI1346-24,SSI-Truckee-49441-C11,Truckee,Baetis,99.84,Baetis,
+DHSSI1347-24,SSI-Truckee-49441-C12,Truckee,Brillia,90.12,,
+DHSSI1348-24,SSI-Truckee-49441-D1,Truckee,Baetis,99.84,Baetis,
+DHSSI1349-24,SSI-Truckee-49441-D2,Truckee,Sialis,99.08,Sialis,
+DHSSI1350-24,SSI-Truckee-49441-D3,Truckee,Deuteronectes picturatus,99.32,Deuteronectes,Deuteronectes picturatus
+DHSSI1352-24,SSI-Truckee-49441-D5,Truckee,Ironodes,99.54,Ironodes,
+DHSSI1353-24,SSI-Truckee-49441-D6,Truckee,Diphetor,92.81,Diphetor,
+DHSSI1354-24,SSI-Truckee-49441-D7,Truckee,Prosimulium,98.31,Prosimulium,
+DHSSI1355-24,SSI-Truckee-49441-D8,Truckee,Dicranota,96.78,,
+DHSSI1356-24,SSI-Truckee-49441-D9,Truckee,Rhyacophila verrula,96.22,,
+DHSSI1357-24,SSI-Truckee-49441-D10,Truckee,Cinygmula,99.54,,
+DHSSI1358-24,SSI-Truckee-49441-D11,Truckee,Zapada frigida,98.23,Soyedina,
+DHSSI1359-24,SSI-Truckee-49441-D12,Truckee,Paraleptophlebia,98.78,Paraleptophlebia,
+DHSSI1361-24,SSI-Truckee-49441-E2,Truckee,Doroneuria baumanni,99.51,Doroneuria,Doroneuria baumanni
+DHSSI1362-24,SSI-Truckee-49441-E3,Truckee,Neophylax splendens,100,,
+DHSSI1363-24,SSI-Truckee-49441-E4,Truckee,Dicosmoecus,99.85,Dicosmoecus,Dicosmoecus sp.
+DHSSI1364-24,SSI-Truckee-49441-E5,Truckee,Epeorus longimanus,99.69,Epeorus,
+DHSSI1365-24,SSI-Truckee-49441-E6,Truckee,Ephemerella inermis,95.06,Ephemerella,Ephemerella dorothea
+DHSSI1366-24,SSI-Truckee-49441-E7,Truckee,Ameletus,99.14,Ameletus,Ameletus cooki
+DHSSI1367-24,SSI-Truckee-49441-E8,Truckee,Ceratopsyche,100,Hydropsyche,Hydropsyche amblis
+DHSSI1369-24,SSI-Truckee-49441-E10,Truckee,Ironodes,99.5,,
+DHSSI1370-24,SSI-Truckee-49441-E11,Truckee,Plectrocnemia,99.81,Polycentropus,Polycentropus variegatus
+DHSSI1371-24,SSI-Truckee-49441-E12,Truckee,Serratella tibialis,95.59,Drunella,Drunella coloradensis A BG
+DHSSI1372-24,SSI-Truckee-49441-F1,Truckee,Kogotus nonus,94.87,Kogotus,
+DHSSI1373-24,SSI-Truckee-49441-F2,Truckee,Parapsyche elsis,86.94,Parapsyche,Parapsyche elsis
+DHSSI1374-24,SSI-Truckee-49441-F3,Truckee,Eubrianax edwardsii,100,Eubrianax,Eubrianax edwardsii
+DHSSI1375-24,SSI-Truckee-49441-F4,Truckee,Neophylax splendens,99.07,Neophylax,
+DHSSI1376-24,SSI-Truckee-49441-F5,Truckee,Calineuria californica,99.69,Calineuria,Calineuria californica
+DHSSI1377-24,SSI-Truckee-49441-F6,Truckee,Drunella flavilinea,98.7,Drunella,Drunella flavilinea
+DHSSI1378-24,SSI-Truckee-49441-F7,Truckee,Dicosmoecus,99.69,Dicosmoecus,
+DHSSI1379-24,SSI-Truckee-49441-F8,Truckee,Simulium,98.82,Simulium,Simulium silvestre
+DHSSI1380-24,SSI-Truckee-49441-F9,Truckee,Plectrocnemia,99.79,Polycentropus,Polycentropus variegatus
+DHSSI1381-24,SSI-Truckee-49441-F10,Truckee,Caudatella heterocaudata,97.14,Caudatella,Caudatella heterocaudata
+DHSSI1382-24,SSI-Truckee-49441-F11,Truckee,Micrasema,100,,
+DHSSI1383-24,SSI-Truckee-49441-F12,Truckee,Baetis,99.31,Baetis,Baetis phoebus
+DHSSI1384-24,SSI-Truckee-49441-G1,Truckee,Onocosmoecus,99.12,Amphicosmoecus,Amphicosmoecus canax
+DHSSI1385-24,SSI-Truckee-49441-G2,Truckee,Wormaldia,100,,
+DHSSI1386-24,SSI-Truckee-49441-G3,Truckee,Epeorus longimanus,99.85,Epeorus,
+DHSSI1387-24,SSI-Truckee-49441-G4,Truckee,Isoperla,99.61,Isoperla,Isoperla mormona
+DHSSI1388-24,SSI-Truckee-49441-G5,Truckee,Cryptolabis,99.08,,
+DHSSI1389-24,SSI-Truckee-49441-G6,Truckee,Epeorus,100,Epeorus,
+DHSSI1390-24,SSI-Truckee-49441-G7,Truckee,Ephemerella infrequens,99.69,Ephemerella,Ephemerella dorothea
+DHSSI1391-24,SSI-Truckee-49441-G8,Truckee,Onocosmoecus,99.68,Onocosmoecus,Onocosmoecus unicolor
+DHSSI1392-24,SSI-Truckee-49441-G9,Truckee,Ephemerella infrequens,95.1,Ephemerella,Ephemerella dorothea
+DHSSI1393-24,SSI-Truckee-49441-G10,Truckee,Rhithrogena,99.54,Rhithrogena,
+DHSSI1394-24,SSI-Truckee-49441-G11,Truckee,Rhyacophila verrula,98.41,,
+DHSSI1395-24,SSI-Truckee-49441-G12,Truckee,Kogotus nonus,83.99,Pteronarcys,
+DHSSI1396-24,SSI-Truckee-49441-H1,Truckee,Agabus,98.47,Ilybiosoma,Ilybiosoma bjorkmanae
+DHSSI1397-24,SSI-Truckee-49441-H2,Truckee,Malenka,92.83,Malenka,Malenka cornuta
+DHSSI1398-24,SSI-Truckee-49441-H3,Truckee,Prosimulium,100,Prosimulium,Prosimulium sp. A
+DHSSI1399-24,SSI-Truckee-49441-H4,Truckee,Limnophila,90.32,,
+DHSSI1400-24,SSI-Truckee-49441-H5,Truckee,Dicosmoecus,99.48,Allocosmoecus,Allocosmoecus partitus
+DHSSI1401-24,SSI-Truckee-49441-H6,Truckee,Cinygmula,99.68,,
+DHSSI1402-24,SSI-Truckee-49441-H7,Truckee,Diamesa,99.39,,
+DHSSI1403-24,SSI-Truckee-49441-H8,Truckee,Pseudodiamesa,99.36,Pseudodiamesa,Pseudodiamesa sp.
+DHSSI1404-24,SSI-Truckee-49441-H9,Truckee,Neohermes cf. californicus,98.1,,
+DHSSI1405-24,SSI-Truckee-49441-H10,Truckee,Parochlus kiefferi,100,,
+DHSSI1406-24,SSI-Truckee-49441-H11,Truckee,Taenionema,91.98,,
+DHSSI956-24,SSI-American-49445-A2,American,Cinygma,99.85,Cinygma,
+DHSSI958-24,SSI-American-49445-A4,American,Dolophilodes,98.11,,
+DHSSI959-24,SSI-American-49445-A5,American,Epeorus longimanus,100,,
+DHSSI960-24,SSI-American-49445-A6,American,Neoleptophlebia,98.93,Paraleptophlebia,
+DHSSI961-24,SSI-American-49445-A7,American,Arctopsyche grandis,99.54,Arctopsyche,Arctopsyche grandis
+DHSSI962-24,SSI-American-49445-A8,American,Pagastia,100,,
+DHSSI963-24,SSI-American-49445-A9,American,Brillia,99.52,Brillia,
+DHSSI964-24,SSI-American-49445-A10,American,Baetis,100,,
+DHSSI965-24,SSI-American-49445-A11,American,Simulium,100,Simulium,Simulium annulitarse
+DHSSI966-24,SSI-American-49445-A12,American,Matriella teresa,83.43,Ephemerella,Ephemerella dorothea
+DHSSI967-24,SSI-American-49445-B1,American,Plectrocnemia,99.85,Polycentropus,Polycentropus variegatus
+DHSSI968-24,SSI-American-49445-B2,American,Parapsyche almota,99.85,Parapsyche,Parapsyche almota
+DHSSI969-24,SSI-American-49445-B3,American,Psychoglypha,99.08,Psychoglypha,Psychoglypha sp.
+DHSSI970-24,SSI-American-49445-B4,American,Neothremma,95.17,Neothremma,Neothremma didactyla
+DHSSI971-24,SSI-American-49445-B5,American,Zavrelimyia,100,Zavrelimyia,
+DHSSI972-24,SSI-American-49445-B6,American,Rhyacophila rotunda,100,,
+DHSSI973-24,SSI-American-49445-B7,American,Malenka,100,Malenka,
+DHSSI975-24,SSI-American-49445-B9,American,Ameletus,94.44,Ameletus,Ameletus andersoni
+DHSSI976-24,SSI-American-49445-B10,American,Dicranota,100,Dicranota,
+DHSSI977-24,SSI-American-49445-B11,American,Plectrocnemia,99.85,Polycentropus,Polycentropus variegatus
+DHSSI978-24,SSI-American-49445-B12,American,Lepidostoma,100,Lepidostoma,
+DHSSI979-24,SSI-American-49445-C1,American,Ironodes,98.17,Ironodes,
+DHSSI980-24,SSI-American-49445-C2,American,Lepidostoma,99.85,Lepidostoma,
+DHSSI981-24,SSI-American-49445-C3,American,Corynoneura,98.78,,
+DHSSI982-24,SSI-American-49445-C4,American,Nectoporus sierrae,87,Oreodytes,Oreodytes septentrionalis
+DHSSI983-24,SSI-American-49445-C5,American,Elmidae,99.08,Heterlimnius,Heterlimnius corpulentus
+DHSSI984-24,SSI-American-49445-C6,American,Anafroptilum,96.48,Anafroptilum,
+DHSSI985-24,SSI-American-49445-C7,American,Brillia,98.27,,
+DHSSI986-24,SSI-American-49445-C8,American,Pagastia,99.69,,
+DHSSI987-24,SSI-American-49445-C9,American,Cricotopus,98.32,,
+DHSSI988-24,SSI-American-49445-C10,American,Protochauliodes,98.1,,
+DHSSI989-24,SSI-American-49445-C11,American,Orohermes crepusculus,99.85,Orohermes,Orohermes crepusculus
+DHSSI990-24,SSI-American-49445-C12,American,Clitellata,84.8,Mesenchytraeus,
+DHSSI991-24,SSI-American-49445-D1,American,Microtendipes rydalensis,99.45,Microtendipes,
+DHSSI992-24,SSI-American-49445-D2,American,Optioservus quadrimaculatus,99.69,Optioservus,Optioservus quadrimaculatus
+DHSSI993-24,SSI-American-49445-D3,American,Calineuria californica,99.67,Doroneuria,Doroneuria baumanni
+DHSSI994-24,SSI-American-49445-D4,American,Drunella flavilinea,99.85,Drunella,Drunella flavilinea
+DHSSI995-24,SSI-American-49445-D5,American,Paraleptophlebia,99.84,Paraleptophlebia,
+DHSSI996-24,SSI-American-49445-D6,American,Amiocentrus,99.85,Amiocentrus,
+DHSSI997-24,SSI-American-49445-D7,American,Zapada,99.85,Zapada,
+DHSSI998-24,SSI-American-49445-D8,American,Matriella teresa,83.43,Ephemerella,Ephemerella dorothea
+DHSSI999-24,SSI-American-49445-D9,American,Baetis,100,Baetis,
+DHSSI1050-24,SSI-Carson-49446-A1,Carson,Ameletus,99.21,Ameletus,Ameletus amador
+DHSSI1051-24,SSI-Carson-49446-A2,Carson,Cinygmula,94.66,Cinygmula,Cinygmula sp.
+DHSSI1052-24,SSI-Carson-49446-A3,Carson,Ephemerella dorothea infrequens,95.3,Ephemerella,Ephemerella dorothea
+DHSSI1054-24,SSI-Carson-49446-A5,Carson,Epeorus longimanus,98.78,Epeorus,Epeorus longimanus
+DHSSI1055-24,SSI-Carson-49446-A6,Carson,Drunella spinifera,96.72,Drunella,Drunella spinifera
+DHSSI1056-24,SSI-Carson-49446-A7,Carson,Ceratopsyche,100,Hydropsyche,Hydropsyche amblis
+DHSSI1057-24,SSI-Carson-49446-A8,Carson,Rhyacophila betteni,94.03,Rhyacophila,Rhyacophila sp.
+DHSSI1058-24,SSI-Carson-49446-A9,Carson,Parametriocnemus,98.17,Parametriocnemus,Parametriocnemus sp.
+DHSSI1059-24,SSI-Carson-49446-A10,Carson,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI1060-24,SSI-Carson-49446-A11,Carson,Dicranota,93.49,Dicranota,Dicranota sp. BOLDAAD0480
+DHSSI1061-24,SSI-Carson-49446-A12,Carson,Rhyacophila angelita,99.23,Rhyacophila,Rhyacophila perplana
+DHSSI1062-24,SSI-Carson-49446-B1,Carson,Drunella flavilinea,99.85,Drunella,Drunella flavilinea
+DHSSI1063-24,SSI-Carson-49446-B2,Carson,Epeorus longimanus,98.47,Epeorus,Epeorus longimanus
+DHSSI1064-24,SSI-Carson-49446-B3,Carson,Rhithrogena,94.27,Rhithrogena,Rhithrogena hageni A BG
+DHSSI1065-24,SSI-Carson-49446-B4,Carson,Cinygmula,95.11,Cinygmula,Cinygmula mimus
+DHSSI1066-24,SSI-Carson-49446-B5,Carson,Diamesa,94.26,Diamesa,Diamesa hyperborea
+DHSSI1067-24,SSI-Carson-49446-B6,Carson,Drunella spinifera,96.39,Drunella,Drunella spinifera
+DHSSI1069-24,SSI-Carson-49446-B8,Carson,Attenella delantala,84.56,Ephemera,Ephemera danica
+DHSSI1070-24,SSI-Carson-49446-B9,Carson,Epeorus longimanus,98.62,Epeorus,Epeorus longimanus
+DHSSI1071-24,SSI-Carson-49446-B10,Carson,Kogotus nonus,94.19,Kogotus,Kogotus modestus
+DHSSI1072-24,SSI-Carson-49446-B11,Carson,Ironodes,90.37,Ironodes,Ironodes sp. JMW1
+DHSSI1073-24,SSI-Carson-49446-B12,Carson,Baetis,94.45,Baetis,Baetis bicaudatus
+DHSSI1074-24,SSI-Carson-49446-C1,Carson,Oligophlebodes,96.62,Oligophlebodes,Oligophlebodes sierra
+DHSSI1075-24,SSI-Carson-49446-C2,Carson,Serratella tibialis,99.85,Ephemerella,Ephemerella tibialis
+DHSSI1077-24,SSI-Carson-49446-C4,Carson,Ameletus,99.21,Ameletus,Ameletus amador
+DHSSI1078-24,SSI-Carson-49446-C5,Carson,Suwallia,93.73,Suwallia,Suwallia sp. BIOUG01
+DHSSI1079-24,SSI-Carson-49446-C6,Carson,Ephemerella dorothea infrequens,95.48,Ephemerella,Ephemerella dorothea
+DHSSI1080-24,SSI-Carson-49446-C7,Carson,Drunella doddsii,98.93,Drunella,Drunella doddsii
+DHSSI1082-24,SSI-Carson-49446-C9,Carson,Cricotopus,98.78,Orthocladius,Orthocladius complex
+DHSSI1084-24,SSI-Carson-49446-C11,Carson,Optioservus quadrimaculatus,99.64,Optioservus,Optioservus divergens
+DHSSI1085-24,SSI-Carson-49446-C12,Carson,Lepidostoma,97.67,Lepidostoma,Lepidostoma roafi
+DHSSI1086-24,SSI-Carson-49446-D1,Carson,Serratella tibialis,99.85,Ephemerella,Ephemerella tibialis
+DHSSI1087-24,SSI-Carson-49446-D2,Carson,Clitellata,100,Aporrectodea,Aporrectodea caliginosa L3
+DHSSI1088-24,SSI-Carson-49446-D3,Carson,Prosimulium,96.52,Prosimulium,Prosimulium flaviantennus
+DHSSI1089-24,SSI-Carson-49446-D4,Carson,Rhyacophila rotunda,93.33,Rhyacophila,Rhyacophila norcuta
+DHSSI1090-24,SSI-Carson-49446-D5,Carson,Pseudodiamesa,98.47,Pseudodiamesa,Pseudodiamesa sp.
+DHSSI1091-24,SSI-Carson-49446-D6,Carson,Taenionema,85.56,Brachyptera,Brachyptera monilicornis
+DHSSI1092-24,SSI-Carson-49446-D7,Carson,Baetis,87.46,Baetis,Baetis sp. CA1
+DHSSI1093-24,SSI-Carson-49446-D8,Carson,Tvetenia bavarica,89.27,Cricotopus,Cricotopus perniger
+DHSSI1094-24,SSI-Carson-49446-D9,Carson,Corynoneura,90.66,Bryophaenocladius,Bryophaenocladius flexidens
+DHSSI1095-24,SSI-Carson-49446-D10,Carson,Prosimulium,99.5,Prosimulium,Prosimulium flaviantennus
+DHSSI1096-24,SSI-Carson-49446-D11,Carson,Rhyacophila angelita,97.44,Rhyacophila,Rhyacophila sp.
+DHSSI1097-24,SSI-Carson-49446-D12,Carson,Epeorus longimanus,98.62,Epeorus,Epeorus longimanus
+DHSSI1098-24,SSI-Carson-49446-E1,Carson,Eukiefferiella,98.78,Eukiefferiella,Eukiefferiella gracei gr.
+DHSSI1099-24,SSI-Carson-49446-E2,Carson,Capniidae,99.82,Arsapnia,Arsapnia teresa
+DHSSI1100-24,SSI-Carson-49446-E3,Carson,Baetis,87.92,Baetis,Baetis tricaudatus
+DHSSI1101-24,SSI-Carson-49446-E4,Carson,Zavrelimyia,99.36,Zavrelimyia,Zavrelimyia thryptica
+DHSSI1102-24,SSI-Carson-49446-E5,Carson,Tvetenia bavarica,89.27,Cricotopus,Cricotopus perniger
+DHSSI1103-24,SSI-Carson-49446-E6,Carson,Psychoglypha,99.54,Psychoglypha,Psychoglypha sp.
+DHSSI1104-24,SSI-Carson-49446-E7,Carson,Chironomus,99.85,Chironomus,Chironomus whitseli
+DHSSI1105-24,SSI-Carson-49446-E8,Carson,Corynoneura,90.94,Bryophaenocladius,Bryophaenocladius flexidens
+DHSSI1106-24,SSI-Carson-49446-E9,Carson,Simulium,100,Simulium,Simulium hunteri
+DHSSI1107-24,SSI-Carson-49446-E10,Carson,Sanfilippodytes,97.71,Sanfilippodytes,Sanfilippodytes sp. NHM-IR441
+DHSSI1108-24,SSI-Carson-49446-E11,Carson,Agabus,99.85,Ilybiosoma,Ilybiosoma bjorkmanae
+DHSSI1109-24,SSI-Carson-49446-E12,Carson,Tvetenia bavarica,89.2,Cricotopus,Cricotopus perniger
+DHSSI1110-24,SSI-Carson-49446-F1,Carson,Simulium,99.69,Simulium,Simulium saxosum
+DHSSI1111-24,SSI-Carson-49446-F2,Carson,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI1112-24,SSI-Carson-49446-F3,Carson,Planariidae,99.84,Simulium,Simulium piperi
+DHSSI1115-24,SSI-Carson-49446-F6,Carson,Neophylax splendens,99.23,Neophylax,Neophylax rickeri
+DHSSI1116-24,SSI-Carson-49446-F7,Carson,Parapsyche elsis,87.11,Parapsyche,Parapsyche elsis
+DHSSI1117-24,SSI-Carson-49446-F8,Carson,Rhyacophila brunnea,100,Rhyacophila,Rhyacophila DER sp ac
+DHSSI1118-24,SSI-Carson-49446-F9,Carson,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI1119-24,SSI-Carson-49446-F10,Carson,Dicranota,93.92,Dicranota,Dicranota sp. BOLDAAD0480
+DHSSI1120-24,SSI-Carson-49446-F11,Carson,Simulium,99.54,Simulium,Simulium piperi
+DHSSI1121-24,SSI-Carson-49446-F12,Carson,Pagastia,89.77,Diamesa,Diamesa tonsa
+DHSSI1122-24,SSI-Carson-49446-G1,Carson,Rhyacophila betteni,94.35,Rhyacophila,Rhyacophila sp.
+DHSSI1123-24,SSI-Carson-49446-G2,Carson,Clitellata,100,Eiseniella,Eiseniella tetraedra
+DHSSI1124-24,SSI-Carson-49446-G3,Carson,Malenka,100,Malenka,Malenka californica
+DHSSI1125-24,SSI-Carson-49446-G4,Carson,Sweltsa,99.39,Sweltsa,Sweltsa borealis
+DHSSI1126-24,SSI-Carson-49446-G5,Carson,Baetis,99.5,Baetis,Baetis bicaudatus
+DHSSI1127-24,SSI-Carson-49446-G6,Carson,Simulium,99.84,Simulium,Simulium piperi
+DHSSI1128-24,SSI-Carson-49446-G7,Carson,Baetis,94.7,Baetis,Baetis foemina
+DHSSI1129-24,SSI-Carson-49446-G8,Carson,Sweltsa,100,Sweltsa,Sweltsa borealis
+DHSSI1130-24,SSI-Carson-49446-G9,Carson,Epeorus longimanus,98.47,Epeorus,Epeorus longimanus
+DHSSI1131-24,SSI-Carson-49446-G10,Carson,Parapsyche elsis,86.7,Parapsyche,Parapsyche elsis
+DHSSI1132-24,SSI-Carson-49446-G11,Carson,Ameletus,92.06,Ameletus,Ameletus bellulus
+DHSSI1133-24,SSI-Carson-49446-G12,Carson,Drunella coloradensis,95.57,Drunella,Drunella coloradensis A BG
+DHSSI1134-24,SSI-Carson-49446-H1,Carson,Rhithrogena,94.5,Rhithrogena,Rhithrogena robusta
+DHSSI1135-24,SSI-Carson-49446-H2,Carson,Cinygmula,96.44,Cinygmula,Cinygmula sp. D BG
+DHSSI1136-24,SSI-Carson-49446-H3,Carson,Simulium,100,Simulium,Simulium arcticum complex
+DHSSI1137-24,SSI-Carson-49446-H4,Carson,Drunella doddsii,94.04,Drunella,Drunella doddsii
+DHSSI1139-24,SSI-Carson-49446-H6,Carson,Rhyacophila betteni,94.19,Rhyacophila,Rhyacophila sp.
+DHSSI1140-24,SSI-Carson-49446-H7,Carson,Chyranda centralis,97.71,Chyranda,Chyranda centralis
+DHSSI1141-24,SSI-Carson-49446-H8,Carson,Prosimulium,98.05,Helodon,Helodon onychodactylus complex
+DHSSI1142-24,SSI-Carson-49446-H9,Carson,Diphetor hageni,84.25,Baetodes,Baetodes SADR09
+DHSSI1143-24,SSI-Carson-49446-H10,Carson,Diamesa,91.28,Diamesa,Diamesa parancysta
+DHSSI1144-24,SSI-Carson-49446-H11,Carson,Sweltsa,99.85,Sweltsa,Sweltsa borealis
+DHSSI1145-24,SSI-Carson-49447-A1,Carson,Psychoglypha,99.54,Psychoglypha,Psychoglypha sp.
+DHSSI1146-24,SSI-Carson-49447-A2,Carson,Baetis,94.45,Baetis,Baetis bicaudatus
+DHSSI1147-24,SSI-Carson-49447-A3,Carson,Kathroperla,86.7,Paraperla,Paraperla frontalis
+DHSSI1148-24,SSI-Carson-49447-A4,Carson,Planariidae,96.38,Cinygmula,Cinygmula sp. D BG
+DHSSI1149-24,SSI-Carson-49447-A5,Carson,Paraleptophlebia,85.32,Paraleptophlebia,Paraleptophlebia sp.JMW2
+DHSSI1151-24,SSI-Carson-49447-A7,Carson,Cinygma,87.28,Cinygma,Cinygma sp. RN1
+DHSSI1152-24,SSI-Carson-49447-A8,Carson,Drunella coloradensis,95.41,Drunella,Drunella coloradensis A BG
+DHSSI1153-24,SSI-Carson-49447-A9,Carson,Neothremma,94.5,Neothremma,Neothremma didactyla
+DHSSI1154-24,SSI-Carson-49447-A10,Carson,Neophylax,99.23,Neophylax,Neophylax rickeri
+DHSSI1155-24,SSI-Carson-49447-A11,Carson,Sweltsa,99.08,Alloperla,Alloperla chandleri
+DHSSI1157-24,SSI-Carson-49447-B1,Carson,Ameletus,85.81,Ameletus,Ameletus dissitus
+DHSSI1158-24,SSI-Carson-49447-B2,Carson,Simulium,99.84,Simulium,Simulium arcticum complex
+DHSSI1159-24,SSI-Carson-49447-B3,Carson,Rhyacophila brunnea,99.85,Rhyacophila,Rhyacophila DER sp ac
+DHSSI1160-24,SSI-Carson-49447-B4,Carson,Drunella coloradensis,95.14,Drunella,Drunella coloradensis A BG
+DHSSI1161-24,SSI-Carson-49447-B5,Carson,Yoraperla,99.24,Yoraperla,Yoraperla nigrisoma
+DHSSI1162-24,SSI-Carson-49447-B6,Carson,Drunella spinifera,98.78,Drunella,Drunella spinifera
+DHSSI1163-24,SSI-Carson-49447-B7,Carson,Malenka,99.53,Malenka,Malenka californica
+DHSSI1164-24,SSI-Carson-49447-B8,Carson,Baetis,99.67,Baetis,Baetis bicaudatus
+DHSSI1165-24,SSI-Carson-49447-B9,Carson,Parapsyche elsis,86.74,Parapsyche,Parapsyche elsis
+DHSSI1166-24,SSI-Carson-49447-B10,Carson,Macropelopia,93.49,Macropelopia,Macropelopia pergrandis
+DHSSI1167-24,SSI-Carson-49447-B11,Carson,Cinygmula,91.91,Cinygmula,Cinygmula sp. B BG
+DHSSI1170-24,SSI-Carson-49447-C2,Carson,Rhyacophila brunnea,100,Rhyacophila,Rhyacophila DER sp ac
+DHSSI1171-24,SSI-Carson-49447-C3,Carson,Epeorus longimanus,98.46,Epeorus,Epeorus longimanus
+DHSSI1172-24,SSI-Carson-49447-C4,Carson,Heterlimnius corpulentus,97.65,Heterlimnius,Heterlimnius corpulentus
+DHSSI1173-24,SSI-Carson-49447-C5,Carson,Clitellata,100,Eiseniella,Eiseniella tetraedra
+DHSSI1174-24,SSI-Carson-49447-C6,Carson,Drunella coloradensis,95.31,Drunella,Drunella coloradensis A BG
+DHSSI1175-24,SSI-Carson-49447-C7,Carson,Suwallia,92.82,Suwallia,Suwallia sp. A BG
+DHSSI1176-24,SSI-Carson-49447-C8,Carson,Anafroptilum,83.85,Cloeon,Cloeon dipterum
+DHSSI1177-24,SSI-Carson-49447-C9,Carson,Protzia,85.11,Protzia,Protzia cabardinica
+DHSSI1178-24,SSI-Carson-49447-C10,Carson,Neoleptophlebia,95.37,Neoleptophlebia,Neoleptophlebia memorialis
+DHSSI1179-24,SSI-Carson-49447-C11,Carson,Tvetenia bavarica,97.55,Tvetenia,Tvetenia bavarica gr.
+DHSSI1180-24,SSI-Carson-49447-C12,Carson,Cinygma,87.92,Cinygma,Cinygma sp. RN1
+DHSSI1181-24,SSI-Carson-49447-D1,Carson,Cinygmula,92.06,Cinygmula,Cinygmula sp. B BG
+DHSSI1182-24,SSI-Carson-49447-D2,Carson,Baetis,97.69,Baetis,Baetis bicaudatus
+DHSSI1184-24,SSI-Carson-49447-D4,Carson,Diamesa,99.85,Diamesa,Diamesa sp. 3
+DHSSI1185-24,SSI-Carson-49447-D5,Carson,Pteronarcella,90.86,Pteronarcella,Pteronarcella regularis
+DHSSI1186-24,SSI-Carson-49447-D6,Carson,Hesperoperla hoguei,91.86,Hesperoperla,Hesperoperla pacifica
+DHSSI1187-24,SSI-Carson-49447-D7,Carson,Yoraperla,99.39,Yoraperla,Yoraperla nigrisoma
+DHSSI1188-24,SSI-Carson-49447-D8,Carson,Rhyacophila rotunda,99.85,Rhyacophila,Rhyacophila chordata
+DHSSI1189-24,SSI-Carson-49447-D9,Carson,Drunella spinifera,98.78,Drunella,Drunella spinifera
+DHSSI1190-24,SSI-Carson-49447-D10,Carson,Simulium,99.02,Simulium,Simulium arcticum complex
+DHSSI1191-24,SSI-Carson-49447-D11,Carson,Suwallia,93.25,Suwallia,Suwallia sp. A BG
+DHSSI1192-24,SSI-Carson-49447-D12,Carson,Kogotus nonus,94.39,Kogotus,Kogotus modestus
+DHSSI1193-24,SSI-Carson-49447-E1,Carson,Eukiefferiella brevicalcar,99.84,Eukiefferiella,Eukiefferiella claripennis
+DHSSI1194-24,SSI-Carson-49447-E2,Carson,Chironomus,100,Chironomus,Chironomus whitseli
+DHSSI1195-24,SSI-Carson-49447-E3,Carson,Epeorus longimanus,98,Epeorus,Epeorus longimanus
+DHSSI1196-24,SSI-Carson-49447-E4,Carson,Drunella coloradensis,95.49,Drunella,Drunella coloradensis A BG
+DHSSI1197-24,SSI-Carson-49447-E5,Carson,Diamesa,97.09,Diamesa,Diamesa sp. 3
+DHSSI1198-24,SSI-Carson-49447-E6,Carson,Baetis,99.67,Baetis,Baetis bicaudatus
+DHSSI1199-24,SSI-Carson-49447-E7,Carson,Micrasema,96.02,Micrasema,Micrasema bactro
+DHSSI1200-24,SSI-Carson-49447-E8,Carson,Protzia,87.13,Hydryphantes,Hydryphantes sp. VZ20194
+DHSSI1202-24,SSI-Carson-49447-E10,Carson,Sweltsa,99.24,Sweltsa,Sweltsa borealis
+DHSSI1203-24,SSI-Carson-49447-E11,Carson,Odontomesa,93.09,Odontomesa,Odontomesa sp. T25
+DHSSI1204-24,SSI-Carson-49447-E12,Carson,Limnophora,93.43,MuscGn1,MuscGn1 SADR01
+DHSSI1205-24,SSI-Carson-49447-F1,Carson,Eukiefferiella claripennis,100,Eukiefferiella,Eukiefferiella claripennis
+DHSSI1207-24,SSI-Carson-49447-F3,Carson,Optioservus quadrimaculatus,99.45,Optioservus,Optioservus divergens
+DHSSI1209-24,SSI-Carson-49447-F5,Carson,Neoleptophlebia,96.17,Neoleptophlebia,Neoleptophlebia memorialis
+DHSSI1210-24,SSI-Carson-49447-F6,Carson,Drunella coloradensis,95.26,Drunella,Drunella coloradensis A BG
+DHSSI1211-24,SSI-Carson-49447-F7,Carson,Rhyacophila brunnea,100,Rhyacophila,Rhyacophila DER sp ac
+DHSSI1212-24,SSI-Carson-49447-F8,Carson,Suwallia,93.07,Suwallia,Suwallia sp. A BG
+DHSSI1213-24,SSI-Carson-49447-F9,Carson,Baetis,99.67,Baetis,Baetis bicaudatus
+DHSSI1214-24,SSI-Carson-49447-F10,Carson,Cinygmula,92.07,Cinygmula,Cinygmula sp. B BG
+DHSSI1215-24,SSI-Carson-49447-F11,Carson,Simulium,99.54,Simulium,Simulium piperi
+DHSSI1216-24,SSI-Carson-49447-F12,Carson,Yoraperla,99.08,Yoraperla,Yoraperla nigrisoma
+DHSSI1217-24,SSI-Carson-49447-G1,Carson,Epeorus longimanus,98.25,Epeorus,Epeorus longimanus B BG
+DHSSI1218-24,SSI-Carson-49447-G2,Carson,Optioservus quadrimaculatus,99.67,Optioservus,Optioservus divergens
+DHSSI1219-24,SSI-Carson-49447-G3,Carson,Sweltsa,93.8,Suwallia,Suwallia sp. A BG
+DHSSI1220-24,SSI-Carson-49447-G4,Carson,Onocosmoecus,99.34,Onocosmoecus,Onocosmoecus unicolor
+DHSSI1221-24,SSI-Carson-49447-G5,Carson,Drunella grandis,97.34,Drunella,Drunella grandis
+DHSSI1222-24,SSI-Carson-49447-G6,Carson,Epeorus,99.84,Epeorus,Epeorus sp.
+DHSSI1223-24,SSI-Carson-49447-G7,Carson,Ameletus,86.83,Ameletus,Ameletus andersoni
+DHSSI1224-24,SSI-Carson-49447-G8,Carson,Drunella flavilinea,99.69,Drunella,Drunella coloradensis
+DHSSI1225-24,SSI-Carson-49447-G9,Carson,Caudatella heterocaudata,96.98,Caudatella,Caudatella heterocaudata
+DHSSI1226-24,SSI-Carson-49447-G10,Carson,Diamesa,94.44,Diamesa,Diamesa nr. hyperborea
+DHSSI1227-24,SSI-Carson-49447-G11,Carson,Matriella teresa,83.24,Ephemerella,Ephemerella dorothea
+DHSSI1228-24,SSI-Carson-49447-G12,Carson,Drunella flavilinea,99.69,Drunella,Drunella coloradensis
+DHSSI1229-24,SSI-Carson-49447-H1,Carson,Atherix variegata,97.76,Atherix,Atherix sp. SLB-2003
+DHSSI1230-24,SSI-Carson-49447-H2,Carson,Rhyacophila angelita,99.39,Rhyacophila,Rhyacophila perplana
+DHSSI1231-24,SSI-Carson-49447-H3,Carson,Drunella doddsii,98.88,Drunella,Drunella doddsii
+DHSSI1232-24,SSI-Carson-49447-H4,Carson,Ceratopsyche,99.85,Hydropsyche,Hydropsyche oslari
+DHSSI1233-24,SSI-Carson-49447-H5,Carson,Drunella flavilinea,99.69,Drunella,Drunella flavilinea
+DHSSI1234-24,SSI-Carson-49447-H6,Carson,Lepidostoma,99.36,Lepidostoma,Lepidostoma unicolor
+DHSSI1235-24,SSI-Carson-49447-H7,Carson,Narpus concolor,97.98,Narpus,Narpus sp.
+DHSSI1236-24,SSI-Carson-49447-H8,Carson,Cricotopus,92.91,Orthocladius,Orthocladius rivicola
+DHSSI1237-24,SSI-Carson-49447-H9,Carson,Simulium,99.85,Simulium,Simulium tuberosum complex
+DHSSI1239-24,SSI-Carson-49447-H11,Carson,Baetis,99.67,Baetis,Baetis bicaudatus
+DHSSI1303-24,SSI-Carson-49448-F4,Carson,Attenella delantala,83.94,Ephemera,Ephemera danica
+DHSSI1302-24,SSI-Carson-49448-F3,Carson,Caudatella hystrix,84.01,Siphloplecton,Siphloplecton basale
+DHSSI1291-24,SSI-Carson-49448-E4,Carson,Diphetor hageni,84.25,Baetodes,Baetodes SADR09
+DHSSI1296-24,SSI-Carson-49448-E9,Carson,Caudatella edmundsi,86.39,Ephemerella,Ephemerella sp.JMW2
+DHSSI1307-24,SSI-Carson-49448-F8,Carson,Paraphaenocladius,88.26,Nanocladius,Nanocladius balticus
+DHSSI1275-24,SSI-Carson-49448-C12,Carson,Suwallia,88.68,Suwallia,Suwallia starki
+DHSSI1305-24,SSI-Carson-49448-F6,Carson,Polypedilum scalaenum,88.95,Polypedilum,Polypedilum pullum
+DHSSI1255-24,SSI-Carson-49448-B4,Carson,Ironodes,90.52,Ironodes,Ironodes sp. JMW1
+DHSSI1261-24,SSI-Carson-49448-B10,Carson,Cricotopus,90.67,Cricotopus,Cricotopus diversus
+DHSSI1250-24,SSI-Carson-49448-A11,Carson,Rhabdomastix,90.92,Rhabdomastix,Rhabdomastix nivalis
+DHSSI1284-24,SSI-Carson-49448-D9,Carson,Ameletus,92.81,Ameletus,Ameletus sp. BK01
+DHSSI1266-24,SSI-Carson-49448-C3,Carson,Corynoneura,92.97,Corynoneura,Corynoneura sp. 24ES
+DHSSI1287-24,SSI-Carson-49448-D12,Carson,Sweltsa,93.12,Suwallia,Suwallia sp. BIOUG01
+DHSSI1245-24,SSI-Carson-49448-A6,Carson,Suwallia,93.49,Suwallia,Suwallia sp. A BG
+DHSSI1294-24,SSI-Carson-49448-E7,Carson,Cinygmula,93.73,Cinygmula,Cinygmula sp. JMW6
+DHSSI1304-24,SSI-Carson-49448-F5,Carson,Sweltsa,93.73,Suwallia,Suwallia sp. BIOUG01
+DHSSI1249-24,SSI-Carson-49448-A10,Carson,Rhithrogena,93.9,Rhithrogena,Rhithrogena hageni A BG
+DHSSI1254-24,SSI-Carson-49448-B3,Carson,Suwallia,94.04,Suwallia,Suwallia sp. BIOUG01
+DHSSI1298-24,SSI-Carson-49448-E11,Carson,Rhithrogena,94.09,Rhithrogena,Rhithrogena hageni A BG
+DHSSI1259-24,SSI-Carson-49448-B8,Carson,Kogotus nonus,94.19,Kogotus,Kogotus modestus
+DHSSI1264-24,SSI-Carson-49448-C1,Carson,Micrasema,94.19,Micrasema,Micrasema bactro
+DHSSI1262-24,SSI-Carson-49448-B11,Carson,Diamesa,94.44,Diamesa,Diamesa nr. hyperborea
+DHSSI1292-24,SSI-Carson-49448-E5,Carson,Hexatoma,94.5,Hexatoma,Hexatoma spinosa
+DHSSI1243-24,SSI-Carson-49448-A4,Carson,Diamesa,94.53,Diamesa,Diamesa hamaticornis
+DHSSI1281-24,SSI-Carson-49448-D6,Carson,Ephemerella dorothea infrequens,94.65,Ephemerella,Ephemerella dorothea
+DHSSI1293-24,SSI-Carson-49448-E6,Carson,Cinygmula,94.66,Cinygmula,Cinygmula sp. RN1
+DHSSI1278-24,SSI-Carson-49448-D3,Carson,Drunella flavilinea,94.8,Ephemerella,Ephemerella dorothea
+DHSSI1253-24,SSI-Carson-49448-B2,Carson,Cinygmula,95.11,Cinygmula,Cinygmula mimus
+DHSSI1274-24,SSI-Carson-49448-C11,Carson,Cinygmula,95.11,Cinygmula,Cinygmula mimus
+DHSSI1276-24,SSI-Carson-49448-D1,Carson,Cinygmula,95.11,Cinygmula,Cinygmula mimus
+DHSSI1280-24,SSI-Carson-49448-D5,Carson,Ephemerella dorothea infrequens,95.25,Ephemerella,Ephemerella dorothea
+DHSSI1290-24,SSI-Carson-49448-E3,Carson,Neoleptophlebia,95.85,Neoleptophlebia,Neoleptophlebia memorialis
+DHSSI1268-24,SSI-Carson-49448-C5,Carson,Heterlimnius corpulentus,96.18,Narpus,Narpus sp.
+DHSSI1277-24,SSI-Carson-49448-D2,Carson,Drunella spinifera,96.38,Drunella,Drunella spinifera
+DHSSI1240-24,SSI-Carson-49448-A1,Carson,Epeorus longimanus,98.32,Epeorus,Epeorus longimanus
+DHSSI1260-24,SSI-Carson-49448-B9,Carson,Epeorus longimanus,98.32,Epeorus,Epeorus longimanus
+DHSSI1283-24,SSI-Carson-49448-D8,Carson,Simulium,98.37,Simulium,Simulium craigi
+DHSSI1311-24,SSI-Carson-49448-F12,Carson,Epeorus longimanus,98.47,Epeorus,Epeorus longimanus
+DHSSI1258-24,SSI-Carson-49448-B7,Carson,Rhyacophila betteni,98.72,Rhyacophila,Rhyacophila vaccua
+DHSSI1308-24,SSI-Carson-49448-F9,Carson,Simulium,99.02,Simulium,Simulium annulus group
+DHSSI1299-24,SSI-Carson-49448-E12,Carson,Yoraperla,99.08,Yoraperla,Yoraperla nigrisoma
+DHSSI1252-24,SSI-Carson-49448-B1,Carson,Ameletus,99.21,Ameletus,Ameletus amador
+DHSSI1309-24,SSI-Carson-49448-F10,Carson,Prosimulium,99.35,Helodon,Helodon onychodactylus complex
+DHSSI1272-24,SSI-Carson-49448-C9,Carson,Rhyacophila alberta,99.39,Rhyacophila,Rhyacophila perplana
+DHSSI1273-24,SSI-Carson-49448-C10,Carson,Optioservus quadrimaculatus,99.51,Optioservus,Optioservus divergens
+DHSSI1246-24,SSI-Carson-49448-A7,Carson,Simulium,99.52,Simulium,Simulium piperi
+DHSSI1310-24,SSI-Carson-49448-F11,Carson,Baetis,99.54,Baetis,Baetis adonis
+DHSSI1263-24,SSI-Carson-49448-B12,Carson,Baetis,99.66,Baetis,Baetis tricaudatus
+DHSSI1270-24,SSI-Carson-49448-C7,Carson,Baetis,99.67,Baetis,Baetis bicaudatus
+DHSSI1247-24,SSI-Carson-49448-A8,Carson,Eukiefferiella devonica,99.69,Eukiefferiella,Eukiefferiella devonica gr.
+DHSSI1256-24,SSI-Carson-49448-B5,Carson,Drunella flavilinea,99.69,Drunella,Drunella coloradensis
+DHSSI1289-24,SSI-Carson-49448-E2,Carson,Drunella flavilinea,99.69,Drunella,Drunella coloradensis
+DHSSI1297-24,SSI-Carson-49448-E10,Carson,Onocosmoecus,99.69,Onocosmoecus,Onocosmoecus unicolor
+DHSSI1244-24,SSI-Carson-49448-A5,Carson,Diphetor hageni,99.82,Diphetor,Diphetor hageni
+DHSSI1241-24,SSI-Carson-49448-A2,Carson,Epeorus,99.84,Epeorus,Epeorus sp.
+DHSSI1242-24,SSI-Carson-49448-A3,Carson,Malenka,99.84,Malenka,Malenka californica
+DHSSI1257-24,SSI-Carson-49448-B6,Carson,Drunella flavilinea,99.85,Drunella,Drunella flavilinea
+DHSSI1265-24,SSI-Carson-49448-C2,Carson,Psychoglypha,99.85,Psychoglypha,Psychoglypha bella
+DHSSI1269-24,SSI-Carson-49448-C6,Carson,Serratella levis,99.85,Ephemerella,Ephemerella tibialis
+DHSSI1286-24,SSI-Carson-49448-D11,Carson,Rhyacophila,99.85,Rhyacophila,Rhyacophila valuma
+DHSSI1295-24,SSI-Carson-49448-E8,Carson,Pedomoecus sierra,99.85,Pedomoecus,Pedomoecus sierra
+DHSSI1248-24,SSI-Carson-49448-A9,Carson,Oroperla barbara,100,Oroperla,Oroperla barbara
+DHSSI1251-24,SSI-Carson-49448-A12,Carson,Tabanus,100,Tabanus,Tabanus aegrotus
+DHSSI1279-24,SSI-Carson-49448-D4,Carson,Prosimulium,100,Prosimulium,Prosimulium exigens
+DHSSI1282-24,SSI-Carson-49448-D7,Carson,Prosimulium,100,Prosimulium,Prosimulium sp. A
+DHSSI1306-24,SSI-Carson-49448-F7,Carson,Lepidostoma cascadense,100,Lepidostoma,Lepidostoma cascadense
+DHSSI890-24,SSI-American-44353-C7,American,Sialis,96.94,Sialis,Sialis sp. 7G202241
+DHSSI892-24,SSI-American-44353-C9,American,Rhabdomastix,90.21,Biorbitella,Biorbitella hesperia
+DHSSI893-24,SSI-American-44353-C10,American,Ironodes,90.21,Ironodes,Ironodes sp. JMW1
+DHSSI894-24,SSI-American-44353-C11,American,Cinygmula,94.5,Cinygmula,Cinygmula sp. RN1
+DHSSI895-24,SSI-American-44353-C12,American,Despaxia augusta,96.32,Paraleuctra,Paraleuctra vershina B BG
+DHSSI897-24,SSI-American-44353-D2,American,Ironodes,90.21,Ironodes,Ironodes sp. JMW1
+DHSSI898-24,SSI-American-44353-D3,American,Ephemerella dorothea infrequens,94.34,Ephemerella,Ephemerella dorothea
+DHSSI903-24,SSI-American-44353-D8,American,Pagastia,89.8,Diamesa,Diamesa nr. hyperborea
+DHSSI906-24,SSI-American-44353-D11,American,Cricotopus,90,Cricotopus,Cricotopus draysoni
+DHSSI909-24,SSI-American-44353-E2,American,Matriella teresa,83.43,Ephemerella,Ephemerella dorothea
+DHSSI912-24,SSI-American-44353-E5,American,Parapsyche elsis,84.95,Parapsyche,Parapsyche sp.
+DHSSI913-24,SSI-American-44353-E6,American,Rhyacophila verrula,95.53,Rhyacophila,Rhyacophila leechi
+DHSSI914-24,SSI-American-44353-E7,American,Calineuria californica,89.27,Orthocladius,Orthocladius filamentosus
+DHSSI915-24,SSI-American-44353-E8,American,Sperchon,84.9,Sperchon,Sperchon thienemanni
+DHSSI916-24,SSI-American-44353-E9,American,Pagastia,94.86,Pagastia,Pagastia orthogonia
+DHSSI917-24,SSI-American-44353-E10,American,Micrasema,92.71,Micrasema,Micrasema bactro
+DHSSI921-24,SSI-American-44353-F2,American,Cinygma,85.02,Cinygma,Cinygma sp. RN1
+DHSSI922-24,SSI-American-44353-F3,American,Diamesa,93.94,Diamesa,Diamesa nr. hyperborea
+DHSSI925-24,SSI-American-44353-F6,American,Neoleptophlebia,95.85,Neoleptophlebia,Neoleptophlebia memorialis
+DHSSI928-24,SSI-American-44353-F9,American,Cinygma,85.17,Cinygma,Cinygma sp. RN1
+DHSSI929-24,SSI-American-44353-F10,American,Rhyacophila betteni,93.87,Rhyacophila,Rhyacophila sp.
+DHSSI931-24,SSI-American-44353-F12,American,Micrasema,92.71,Micrasema,Micrasema bactro
+DHSSI944-24,SSI-American-44353-H1,American,Tanytarsus,93.47,Micropsectra,Micropsectra sp.
+DHSSI948-24,SSI-American-44353-H5,American,Ameletus,93.81,Ameletus,Ameletus validus
+DHSSI952-24,SSI-American-44353-H9,American,Wormaldia,96.8,Dolophilodes,Dolophilodes aequalis
+DHSSI955-24,SSI-American-49445-A1,American,Dolophilodes,97.81,Dolophilodes,
+DHSSI1000-24,SSI-American-49445-D10,American,Malenka,100,Malenka,Malenka californica
+DHSSI1002-24,SSI-American-49445-D12,American,Baetis,100,,
+DHSSI1003-24,SSI-Carson-49445-E1,Carson,Drunella flavilinea,99.84,Drunella,Drunella flavilinea
+DHSSI1004-24,SSI-Carson-49445-E2,Carson,Ephemerella dorothea infrequens,98.47,,
+DHSSI1005-24,SSI-Carson-49445-E3,Carson,Ceratopsyche,100,Hydropsyche,Hydropsyche amblis
+DHSSI1006-24,SSI-Carson-49445-E4,Carson,Rhyacophila betteni,100,,
+DHSSI1008-24,SSI-Carson-49445-E6,Carson,Epeorus longimanus,99.85,Epeorus,
+DHSSI1009-24,SSI-Carson-49445-E7,Carson,Cricotopus,98.46,Cricotopus,Cricotopus nostocicola
+DHSSI1010-24,SSI-Carson-49445-E8,Carson,Neoleptophlebia,99.08,Paraleptophlebia,
+DHSSI1011-24,SSI-Carson-49445-E9,Carson,Drunella coloradensis,99.08,Drunella,Drunella flavilinea
+DHSSI1012-24,SSI-Carson-49445-E10,Carson,Drunella grandis,97.34,Drunella,Drunella grandis
+DHSSI1013-24,SSI-Carson-49445-E11,Carson,Hexatoma,95.26,Hexatoma,
+DHSSI1014-24,SSI-Carson-49445-E12,Carson,Suwallia,99.08,Suwallia,
+DHSSI1015-24,SSI-Carson-49445-F1,Carson,Glossosoma,99.08,Glossosoma,Glossosoma califica
+DHSSI1016-24,SSI-Carson-49445-F2,Carson,Ephemerella excrucians,99.08,,
+DHSSI1017-24,SSI-Carson-49445-F3,Carson,Simulium,100,Simulium,Simulium annulitarse
+DHSSI1018-24,SSI-Carson-49445-F4,Carson,Drunella spinifera,96.88,Drunella,Drunella spinifera
+DHSSI1019-24,SSI-Carson-49445-F5,Carson,Micrasema,100,,
+DHSSI1021-24,SSI-Carson-49445-F7,Carson,Dicranota,99.54,,
+DHSSI1022-24,SSI-Carson-49445-F8,Carson,Optioservus quadrimaculatus,99.85,Cleptelmis,Cleptelmis addenda
+DHSSI1023-24,SSI-Carson-49445-F9,Carson,Lebertia,99.84,Lebertia,
+DHSSI1024-24,SSI-Carson-49445-F10,Carson,Epeorus longimanus,99.54,Epeorus,
+DHSSI1025-24,SSI-Carson-49445-F11,Carson,Ceratopsyche,100,Hydropsyche,Hydropsyche amblis
+DHSSI1026-24,SSI-Carson-49445-F12,Carson,Prosimulium,99.84,Simulium,Simulium arcticum complex
+DHSSI1027-24,SSI-Carson-49445-G1,Carson,Lepidostoma,99.53,Lepidostoma,
+DHSSI1028-24,SSI-Carson-49445-G2,Carson,Sweltsa,99.69,Suwallia,
+DHSSI1029-24,SSI-Carson-49445-G3,Carson,Malenka,100,Malenka,
+DHSSI1030-24,SSI-Carson-49445-G4,Carson,Cricotopus,100,,
+DHSSI1031-24,SSI-Carson-49445-G5,Carson,Cinygmula,98.55,Cinygmula,
+DHSSI1033-24,SSI-Carson-49445-G7,Carson,Baetis,99.39,Baetis,
+DHSSI1034-24,SSI-Carson-49445-G8,Carson,Kathroperla,90.37,,
+DHSSI1035-24,SSI-Carson-49445-G9,Carson,Cinygmula,99.54,,
+DHSSI1036-24,SSI-Carson-49445-G10,Carson,Epeorus longimanus,99.52,,
+DHSSI1037-24,SSI-Carson-49445-G11,Carson,Ameletus,100,Ameletus,
+DHSSI1038-24,SSI-Carson-49445-G12,Carson,Rhithrogena,99.39,Rhithrogena,
+DHSSI1040-24,SSI-Carson-49445-H2,Carson,Ironodes,99.39,,
+DHSSI1041-24,SSI-Carson-49445-H3,Carson,Diamesa,99.39,,
+DHSSI1042-24,SSI-Carson-49445-H4,Carson,Drunella doddsii,98.93,Drunella,Drunella doddsii
+DHSSI1043-24,SSI-Carson-49445-H5,Carson,Simulium,99.84,Simulium,Simulium arcticum complex
+DHSSI1045-24,SSI-Carson-49445-H7,Carson,Caudatella hystrix,99.54,,
+DHSSI1047-24,SSI-Carson-49445-H9,Carson,Baetis,99.85,Baetis,
+DHSSI1048-24,SSI-Carson-49445-H10,Carson,Neophylax splendens,100,,
+DHSSI1049-24,SSI-Carson-49445-H11,Carson,Visoka cataractae,99.07,Visoka,Visoka cataractae
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
