@@ -1,0 +1,352 @@
+Process_ID,Stream_Site,Watershed
+DHSSI367-23,Shady Creek,South Yuba
+DHSSI369-23,Shady Creek,South Yuba
+DHSSI002-23,Goodyears Creek,North Yuba
+DHSSI117-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI201-23,Goodyears Creek,North Yuba
+DHSSI052-23,Poorman Creek,South Yuba
+DHSSI210-23,Lower Yuba,Yuba
+DHSSI007-23,Goodyears Creek,North Yuba
+DHSSI057-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI122-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI315-23,Fall Creek,South Yuba
+DHSSI344-23,Poorman Creek,South Yuba
+DHSSI132-23,Rattlesnake,South Yuba
+DHSSI160-23,Fall Creek,South Yuba
+DHSSI314-23,Fall Creek,South Yuba
+DHSSI360-23,Fall Creek,South Yuba
+DHSSI251-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI327-23,Fall Creek,South Yuba
+DHSSI300-23,Haypress Creek,North Yuba
+DHSSI028-23,Goodyears Creek,North Yuba
+DHSSI041-23,Poorman Creek,South Yuba
+DHSSI058-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI070-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI098-23,Poorman Creek,South Yuba
+DHSSI171-23,Haypress Creek,North Yuba
+DHSSI209-23,Lower Yuba,Yuba
+DHSSI219-23,Deer Creek 10,South Yuba
+DHSSI249-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI275-23,Rock Creek,South Yuba
+DHSSI292-23,Rush Creek,South Yuba
+DHSSI342-23,Poorman Creek,South Yuba
+DHSSI362-23,Fall Creek,South Yuba
+DHSSI083-23,Rattlesnake,South Yuba
+DHSSI235-23,Deer Creek 2,South Yuba
+DHSSI246-23,Shady Creek,South Yuba
+DHSSI060-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI236-23,Deer Creek 2,South Yuba
+DHSSI273-23,Rock Creek,South Yuba
+DHSSI319-23,Fall Creek,South Yuba
+DHSSI321-23,Fall Creek,South Yuba
+DHSSI361-23,Fall Creek,South Yuba
+DHSSI044-23,Poorman Creek,South Yuba
+DHSSI112-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI121-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI274-23,Rock Creek,South Yuba
+DHSSI324-23,Fall Creek,South Yuba
+DHSSI340-23,Poorman Creek,South Yuba
+DHSSI341-23,Poorman Creek,South Yuba
+DHSSI030-23,Bear River 1,Bear
+DHSSI172-23,Haypress Creek,North Yuba
+DHSSI326-23,Fall Creek,South Yuba
+DHSSI133-23,Rattlesnake,South Yuba
+DHSSI231-23,Deer Creek 2,South Yuba
+DHSSI286-23,Fall Creek,South Yuba
+DHSSI366-23,Fall Creek,South Yuba
+DHSSI157-23,Fall Creek,South Yuba
+DHSSI325-23,Fall Creek,South Yuba
+DHSSI027-23,Goodyears Creek,North Yuba
+DHSSI072-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI084-23,Rattlesnake,South Yuba
+DHSSI109-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI110-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI141-23,Rattlesnake,South Yuba
+DHSSI196-23,Goodyears Creek,North Yuba
+DHSSI197-23,Goodyears Creek,North Yuba
+DHSSI250-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI322-23,Fall Creek,South Yuba
+DHSSI338-23,Poorman Creek,South Yuba
+DHSSI358-23,Fall Creek,South Yuba
+DHSSI230-23,Deer Creek 2,South Yuba
+DHSSI016-23,Goodyears Creek,North Yuba
+DHSSI094-23,Goodyears Creek,North Yuba
+DHSSI272-23,Rock Creek,South Yuba
+DHSSI285-23,Fall Creek,South Yuba
+DHSSI317-23,Fall Creek,South Yuba
+DHSSI042-23,Poorman Creek,South Yuba
+DHSSI092-23,Rattlesnake,South Yuba
+DHSSI111-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI164-23,Rush Creek,South Yuba
+DHSSI316-23,Fall Creek,South Yuba
+DHSSI359-23,Fall Creek,South Yuba
+DHSSI040-23,Poorman Creek,South Yuba
+DHSSI045-23,Poorman Creek,South Yuba
+DHSSI318-23,Fall Creek,South Yuba
+DHSSI071-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI097-23,Poorman Creek,South Yuba
+DHSSI323-23,Fall Creek,South Yuba
+DHSSI343-23,Poorman Creek,South Yuba
+DHSSI143-23,Goodyears Creek,North Yuba
+DHSSI159-23,Fall Creek,South Yuba
+DHSSI170-23,Haypress Creek,North Yuba
+DHSSI363-23,Fall Creek,South Yuba
+DHSSI006-23,Goodyears Creek,North Yuba
+DHSSI142-23,Goodyears Creek,North Yuba
+DHSSI298-23,Haypress Creek,North Yuba
+DHSSI017-23,Deer Creek 10,South Yuba
+DHSSI043-23,Poorman Creek,South Yuba
+DHSSI232-23,Deer Creek 2,South Yuba
+DHSSI345-23,Poorman Creek,South Yuba
+DHSSI015-23,Deer Creek 10,South Yuba
+DHSSI033-23,Goodyears Creek,North Yuba
+DHSSI046-23,Poorman Creek,South Yuba
+DHSSI073-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI113-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI252-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI138-23,Rattlesnake,South Yuba
+DHSSI047-23,Poorman Creek,South Yuba
+DHSSI277-23,Rock Creek,South Yuba
+DHSSI279-23,Rock Creek,South Yuba
+DHSSI175-23,Haypress Creek,North Yuba
+DHSSI336-23,Fall Creek,South Yuba
+DHSSI019-23,Deer Creek 10,South Yuba
+DHSSI018-23,Goodyears Creek,North Yuba
+DHSSI082-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI095-23,Goodyears Creek,North Yuba
+DHSSI284-23,Rock Creek,South Yuba
+DHSSI061-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI123-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI302-23,Haypress Creek,North Yuba
+DHSSI320-23,Fall Creek,South Yuba
+DHSSI276-23,Rock Creek,South Yuba
+DHSSI173-23,Haypress Creek,North Yuba
+DHSSI029-23,Pauley Creek,North Yuba
+DHSSI099-23,Poorman Creek,South Yuba
+DHSSI090-23,Rattlesnake,South Yuba
+DHSSI158-23,Fall Creek,South Yuba
+DHSSI310-23,Haypress Creek,North Yuba
+DHSSI035-23,Rattlesnake,South Yuba
+DHSSI134-23,Rattlesnake,South Yuba
+DHSSI161-23,Fall Creek,South Yuba
+DHSSI085-23,Rattlesnake,South Yuba
+DHSSI114-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI144-23,Goodyears Creek,North Yuba
+DHSSI278-23,Rock Creek,South Yuba
+DHSSI335-23,Fall Creek,South Yuba
+DHSSI165-23,Rush Creek,South Yuba
+DHSSI174-23,Haypress Creek,North Yuba
+DHSSI334-23,Fall Creek,South Yuba
+DHSSI304-23,Haypress Creek,North Yuba
+DHSSI332-23,Fall Creek,South Yuba
+DHSSI149-23,Goodyears Creek,North Yuba
+DHSSI328-23,Fall Creek,South Yuba
+DHSSI303-23,Haypress Creek,North Yuba
+DHSSI295-23,Rush Creek,South Yuba
+DHSSI074-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI075-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI101-23,Poorman Creek,South Yuba
+DHSSI256-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI222-23,Deer Creek 10,South Yuba
+DHSSI253-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI020-23,Goodyears Creek,North Yuba
+DHSSI346-23,Poorman Creek,South Yuba
+DHSSI036-23,Goodyears Creek,North Yuba
+DHSSI145-23,Goodyears Creek,North Yuba
+DHSSI176-23,Haypress Creek,North Yuba
+DHSSI180-23,Haypress Creek,North Yuba
+DHSSI004-23,Bear River 1,Bear
+DHSSI115-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI181-23,Haypress Creek,North Yuba
+DHSSI254-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI178-23,Haypress Creek,North Yuba
+DHSSI195-23,Goodyears Creek,North Yuba
+DHSSI241-23,Shady Creek,South Yuba
+DHSSI245-23,Shady Creek,South Yuba
+DHSSI025-23,Pauley Creek,North Yuba
+DHSSI037-23,Goodyears Creek,North Yuba
+DHSSI146-23,Goodyears Creek,North Yuba
+DHSSI240-23,Shady Creek,South Yuba
+DHSSI305-23,Haypress Creek,North Yuba
+DHSSI370-23,Shady Creek,South Yuba
+DHSSI009-23,Deer Creek 10,South Yuba
+DHSSI102-23,Poorman Creek,South Yuba
+DHSSI125-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI221-23,Deer Creek 10,South Yuba
+DHSSI242-23,Shady Creek,South Yuba
+DHSSI294-23,Rush Creek,South Yuba
+DHSSI100-23,Poorman Creek,South Yuba
+DHSSI126-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI211-23,Lower Yuba,Yuba
+DHSSI014-23,Goodyears Creek,North Yuba
+DHSSI050-23,Poorman Creek,South Yuba
+DHSSI289-23,Rush Creek,South Yuba
+DHSSI331-23,Fall Creek,South Yuba
+DHSSI086-23,Rattlesnake,South Yuba
+DHSSI194-23,Goodyears Creek,North Yuba
+DHSSI087-23,Rattlesnake,South Yuba
+DHSSI330-23,Fall Creek,South Yuba
+DHSSI179-23,Haypress Creek,North Yuba
+DHSSI333-23,Fall Creek,South Yuba
+DHSSI220-23,Deer Creek 10,South Yuba
+DHSSI329-23,Fall Creek,South Yuba
+DHSSI148-23,Goodyears Creek,North Yuba
+DHSSI293-23,Rush Creek,South Yuba
+DHSSI349-23,Poorman Creek,South Yuba
+DHSSI371-23,Shady Creek,South Yuba
+DHSSI193-23,Goodyears Creek,North Yuba
+DHSSI003-23,Goodyears Creek,North Yuba
+DHSSI124-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI140-23,Rattlesnake,South Yuba
+DHSSI010-23,Goodyears Creek,North Yuba
+DHSSI135-23,Rattlesnake,South Yuba
+DHSSI200-23,Goodyears Creek,North Yuba
+DHSSI311-23,Haypress Creek,North Yuba
+DHSSI177-23,Haypress Creek,North Yuba
+DHSSI131-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI136-23,Rattlesnake,South Yuba
+DHSSI238-23,Deer Creek 2,South Yuba
+DHSSI352-23,Poorman Creek,South Yuba
+DHSSI048-23,Poorman Creek,South Yuba
+DHSSI280-23,Rock Creek,South Yuba
+DHSSI365-23,Fall Creek,South Yuba
+DHSSI350-23,Poorman Creek,South Yuba
+DHSSI348-23,Poorman Creek,South Yuba
+DHSSI255-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI034-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI049-23,Poorman Creek,South Yuba
+DHSSI021-23,Goodyears Creek,North Yuba
+DHSSI063-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI147-23,Goodyears Creek,North Yuba
+DHSSI166-23,Rush Creek,South Yuba
+DHSSI351-23,Poorman Creek,South Yuba
+DHSSI012-23,Deer Creek 10,South Yuba
+DHSSI259-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI038-23,Bear River 1,Bear
+DHSSI106-23,Poorman Creek,South Yuba
+DHSSI185-23,Haypress Creek,North Yuba
+DHSSI026-23,Bear River 1,Bear
+DHSSI091-23,Rattlesnake,South Yuba
+DHSSI237-23,Deer Creek 2,South Yuba
+DHSSI139-23,Rattlesnake,South Yuba
+DHSSI150-23,Rock Creek,South Yuba
+DHSSI183-23,Haypress Creek,North Yuba
+DHSSI353-23,Poorman Creek,South Yuba
+DHSSI281-23,Rock Creek,South Yuba
+DHSSI167-23,Rush Creek,South Yuba
+DHSSI208-23,Goodyears Creek,North Yuba
+DHSSI023-23,Goodyears Creek,North Yuba
+DHSSI103-23,Poorman Creek,South Yuba
+DHSSI199-23,Goodyears Creek,North Yuba
+DHSSI247-23,Shady Creek,South Yuba
+DHSSI206-23,Goodyears Creek,North Yuba
+DHSSI155-23,Rock Creek,South Yuba
+DHSSI156-23,Rock Creek,South Yuba
+DHSSI306-23,Haypress Creek,North Yuba
+DHSSI116-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI168-23,Rush Creek,South Yuba
+DHSSI224-23,Deer Creek 10,South Yuba
+DHSSI104-23,Poorman Creek,South Yuba
+DHSSI105-23,Poorman Creek,South Yuba
+DHSSI182-23,Haypress Creek,North Yuba
+DHSSI207-23,Goodyears Creek,North Yuba
+DHSSI355-23,Poorman Creek,South Yuba
+DHSSI356-23,Poorman Creek,South Yuba
+DHSSI064-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI076-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI077-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI107-23,Poorman Creek,South Yuba
+DHSSI184-23,Haypress Creek,North Yuba
+DHSSI257-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI354-23,Poorman Creek,South Yuba
+DHSSI128-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI065-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI022-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI053-23,Poorman Creek,South Yuba
+DHSSI054-23,Poorman Creek,South Yuba
+DHSSI127-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI151-23,Rock Creek,South Yuba
+DHSSI307-23,Haypress Creek,North Yuba
+DHSSI357-23,Poorman Creek,South Yuba
+DHSSI364-23,Fall Creek,South Yuba
+DHSSI108-23,Poorman Creek,South Yuba
+DHSSI130-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI290-23,Rush Creek,South Yuba
+DHSSI068-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI137-23,Rattlesnake,South Yuba
+DHSSI202-23,Goodyears Creek,North Yuba
+DHSSI309-23,Haypress Creek,North Yuba
+DHSSI234-23,Deer Creek 2,South Yuba
+DHSSI013-23,Goodyears Creek,North Yuba
+DHSSI081-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI283-23,Rock Creek,South Yuba
+DHSSI291-23,Rush Creek,South Yuba
+DHSSI282-23,Rock Creek,South Yuba
+DHSSI056-23,Poorman Creek,South Yuba
+DHSSI186-23,Haypress Creek,North Yuba
+DHSSI203-23,Goodyears Creek,North Yuba
+DHSSI055-23,Poorman Creek,South Yuba
+DHSSI226-23,Deer Creek 10,South Yuba
+DHSSI296-23,Rush Creek,South Yuba
+DHSSI308-23,Haypress Creek,North Yuba
+DHSSI039-23,Deer Creek 10,South Yuba
+DHSSI069-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI154-23,Rock Creek,South Yuba
+DHSSI162-23,Rush Creek,South Yuba
+DHSSI163-23,Rush Creek,South Yuba
+DHSSI204-23,Goodyears Creek,North Yuba
+DHSSI215-23,Lower Yuba,Yuba
+DHSSI229-23,Deer Creek 10,South Yuba
+DHSSI258-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI233-23,Deer Creek 2,South Yuba
+DHSSI337-23,Fall Creek,South Yuba
+DHSSI089-23,Rattlesnake,South Yuba
+DHSSI189-23,Haypress Creek,North Yuba
+DHSSI191-23,Haypress Creek,North Yuba
+DHSSI380-23,Pauley Creek,North Yuba
+DHSSI382-23,Pauley Creek,North Yuba
+DHSSI190-23,Haypress Creek,North Yuba
+DHSSI188-23,Haypress Creek,North Yuba
+DHSSI265-23,Pauley Creek,North Yuba
+DHSSI383-23,Pauley Creek,North Yuba
+DHSSI379-23,S. Fk. Wolf Creek,Bear
+DHSSI264-23,Pauley Creek,North Yuba
+DHSSI374-23,S. Fk. Wolf Creek,Bear
+DHSSI287-23,Fall Creek,South Yuba
+DHSSI368-23,Shady Creek,South Yuba
+DHSSI381-23,Pauley Creek,North Yuba
+DHSSI261-23,S.Fk.Yuba Purdon,South Yuba
+DHSSI376-23,S. Fk. Wolf Creek,Bear
+DHSSI262-23,Pauley Creek,North Yuba
+DHSSI375-23,S. Fk. Wolf Creek,Bear
+DHSSI267-23,Pauley Creek,North Yuba
+DHSSI266-23,Pauley Creek,North Yuba
+DHSSI378-23,S. Fk. Wolf Creek,Bear
+DHSSI268-23,Pauley Creek,North Yuba
+DHSSI373-23,S. Fk. Wolf Creek,Bear
+DHSSI119-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI079-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI080-23,S Fk Yuba Golden Quartz,South Yuba
+DHSSI248-23,Shady Creek,South Yuba
+DHSSI212-23,Lower Yuba,Yuba
+DHSSI227-23,Deer Creek 10,South Yuba
+DHSSI024-23,Deer Creek 10,South Yuba
+DHSSI225-23,Deer Creek 10,South Yuba
+DHSSI153-23,Rock Creek,South Yuba
+DHSSI217-23,Deer Creek 10,South Yuba
+DHSSI213-23,Lower Yuba,Yuba
+DHSSI239-23,Deer Creek 2,South Yuba
+DHSSI205-23,Goodyears Creek,North Yuba
+DHSSI216-23,Lower Yuba,Yuba
+DHSSI066-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI067-23,"Oregon Creek, above Ridge Rd",Middle Yuba
+DHSSI093-23,Rattlesnake,South Yuba
+DHSSI152-23,Rock Creek,South Yuba
+DHSSI313-23,Haypress Creek,North Yuba
+DHSSI377-23,S. Fk. Wolf Creek,Bear
+DHSSI372-23,S. Fk. Wolf Creek,Bear
+DHSSI269-23,Pauley Creek,North Yuba
+DHSSI312-23|,Haypress Creek,North Yuba
+DHSSI270-23,Pauley Creek,North Yuba
+DHSSI271-23,Pauley Creek,North Yuba
+DHSSI263-23,Pauley Creek,North Yuba
